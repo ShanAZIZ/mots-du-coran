@@ -1,4 +1,4 @@
-function App() {
+const App = () => {
   return (
     <>
       <button className="btn">Default</button>
