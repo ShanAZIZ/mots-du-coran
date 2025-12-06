@@ -1132,5 +1132,439 @@
     "wordType": "Particule vocative",
     "wordArabicType": "",
     "chapter": "L - PREFIXES ET PARTICULES"
+  },
+  {
+    "arabicWord": "الْخَبِيرُ",
+    "translation": "Le Parfaitement Informé, Le Connaisseur de toutes choses",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "رَبّ",
+    "translation": "Seigneur, maître, éducateur",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "الرَّحْمٰنُ",
+    "translation": "Le Miséricordieux, Le Clément, Le Compatissant",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "السَّلَامُ",
+    "translation": "Le Pacifique, l'Apaiseur, La Paix, tranquilité",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "السَّمِيعُ",
+    "translation": "Celui qui entend chaque chose",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "الشَّكُورُ",
+    "translation": "Reconnaissant, plein de gratitude",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "الْعَزِيزُ",
+    "translation": "Le Tout-Puissant",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "الْغَفُورُ",
+    "translation": "Le Pardonneur, L'Expiateur de fautes",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "الْقَدِيرُ",
+    "translation": "Le Tout-Puissant, L'Omnipotent, Celui qui est capable de toutes choses",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "نَذِيرٌ",
+    "translation": "Avertisseur(s) ou avertissement(s)",
+    "wordType": "Nom",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "نُذُرٌ",
+    "translation": "Avertisseurs ou avertissements (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "النَّصِيرُ",
+    "translation": "Le Secoureur, Le Protecteur, Le Soutien",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "أَنْصَارٌ",
+    "translation": "Secoureurs, protecteurs (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "الْوَكِيلُ",
+    "translation": "Le Garant Suprême, Celui qui a la charge de tout",
+    "wordType": "Nom divin",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "A - QUELQUES NOMS D'ALLAH"
+  },
+  {
+    "arabicWord": "أَوَّلُ",
+    "translation": "Premier (première)",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "أُولَى",
+    "translation": "Première (féminin)",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "آخِرُ",
+    "translation": "Dernier (dernière)",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "آخِرَةُ",
+    "translation": "Dernière (féminin)",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "آخَرُ",
+    "translation": "Autre(s)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "أُخْرَى",
+    "translation": "Autre (féminin)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "آخَرُونَ",
+    "translation": "Autres (pluriel)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "أَمِينَ",
+    "translation": "Digne de confiance, loyal, fiable",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "الْبَصِيرُ",
+    "translation": "Le Voyant, Le Clairvoyant. Voyant, lucide",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "بَعِيدَ",
+    "translation": "Loin",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "التَّوَّابُ",
+    "translation": "Celui qui accueille/accepte le repentir, Le Pardonneur. Repentant(s)",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "تَوَّابِينَ",
+    "translation": "Repentants (pluriel)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "الْحَفِيظُ",
+    "translation": "Le Gardien, Le Protecteur. Celui qui veille/préserve/conserve",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "حَفَظَةٌ",
+    "translation": "Gardiens (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "الْحَكَمُ",
+    "translation": "Le Sage, Le Juste. Sage, juste, sagace",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "الْحَلِيمُ",
+    "translation": "Le Longanime, Le Doux. Plein de mansuétude et de bonté, doux",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "الْحَمَدُ",
+    "translation": "Digne de toutes les plus belles éloges",
+    "wordType": "Nom",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "حَمِيمٌ",
+    "translation": "Bouillant, chaud, brûlant",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "B - AUTRES NOMS D'ALLAH ET ADJECTIFS (1/2)"
+  },
+  {
+    "arabicWord": "شَدِيدَ",
+    "translation": "Sévère, dur, fort, intense",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "الْعَلِيُّ",
+    "translation": "Le Très-Haut, L'Exalté. Haut, en hauteur, élevé",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "الْعَلِيمُ",
+    "translation": "Le Très-Savant. Connaisseur, savant",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "قَرِيبَ",
+    "translation": "Près, proche",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "كَبِيرٌ",
+    "translation": "Grand",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "كَبِيرَةٌ",
+    "translation": "Grande (féminin)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "كَبَائِرٌ",
+    "translation": "Grandes (pluriel)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "كَثِيرٌ",
+    "translation": "Beaucoup",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "كَثِيرَةٌ",
+    "translation": "Beaucoup (féminin)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "سَرِيعَ",
+    "translation": "Rapide, vite",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "الرَّحِيمُ",
+    "translation": "Le Particulièrement Miséricordieux. Compatissant, doux",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "رُحَمَاءُ",
+    "translation": "Miséricordieux (pluriel)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "الْعَظِيمُ",
+    "translation": "Le Suprême, Le Majestueux. Immense, sublime",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "قَلِيلٌ",
+    "translation": "Peu",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "قَلِيلَةٌ",
+    "translation": "Peu (féminin)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "الْكَرِيمُ",
+    "translation": "Le Généreux, Le Très-Noble. Noble, honorable, généreux",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "كِرَامٌ",
+    "translation": "Nobles, généreux (pluriel)",
+    "wordType": "Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "اللَّطِيفُ",
+    "translation": "Le Doux et Bienveillant. Attentionné, bienveillant, doux, subtil",
+    "wordType": "Nom divin/Adjectif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "C - AUTRES NOMS D'ALLAH ET ADJECTIFS (2/2)"
+  },
+  {
+    "arabicWord": "أَشَدُّ",
+    "translation": "Plus sévère, plus dur, plus intense",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَعْلَى",
+    "translation": "Plus haut, supérieur",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَعْلَمَ",
+    "translation": "Plus savant, plus informé",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَقْرَبَ",
+    "translation": "Plus proche",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَكْبَرَ",
+    "translation": "Plus grand",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَكْثَرَ",
+    "translation": "Plus, le plus",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَحْسَنَ",
+    "translation": "Meilleur",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَحَقُّ",
+    "translation": "Plus en droit, plus digne",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَدْنَى",
+    "translation": "Plus près, plus vraisemblable, inférieur, moins",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَظْلَمَ",
+    "translation": "Plus injuste",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَهْدَى",
+    "translation": "Mieux guidé",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "أَوْلَى",
+    "translation": "Plus près, plus proche",
+    "wordType": "Superlatif",
+    "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
+    "chapter": "D - SUPERLATIFS"
   }
 ]

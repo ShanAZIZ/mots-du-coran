@@ -1,16 +1,19 @@
 import { useEffect, useState } from "react";
 
-import { WordCard } from "./components/WordCard";
-import type { ArabicWord } from "./type";
-import { SearchBar } from "./components/SearchBar";
+import { WordCard } from "../components/WordCard";
+import type { ArabicWord } from "../type";
+import { SearchBar } from "../components/SearchBar";
+import { LoadingPage } from "./LoadingPage";
+import { ErrorPage } from "./ErrorPage";
 
 export function WordsPage() {
   const [words, setWords] = useState<ArabicWord[]>([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  const [error, setError] = useState<boolean | null>(null);
   const [search, setSearch] = useState("");
 
   const filteredWords = words.filter((w) => {
+    // TODO meilleure recherche
     const q = search.toLowerCase().trim();
     return (
       w.arabicWord.toLowerCase().includes(q) ||
@@ -29,9 +32,7 @@ export function WordsPage() {
         const data = (await res.json()) as ArabicWord[];
         setWords(data);
       } catch (err) {
-        setError(
-          "حدث خطأ أثناء تحميل الكلمات. حاول مرة أخرى لاحقًا. \nUne erreur est survenue",
-        );
+        setError(true);
       } finally {
         setIsLoading(false);
       }
@@ -39,22 +40,11 @@ export function WordsPage() {
     loadWords();
   }, []);
 
-  if (isLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <span className="loading loading-spinner loading-lg text-primary" />
-      </div>
-    );
-  }
-  if (error) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <p className="text-error text-center px-4">{error}</p>
-      </div>
-    );
-  }
+  if (isLoading) <LoadingPage />
+  if (error) <ErrorPage />
+
   return (
-    <main className="min-h-screen px-4 py-6">
+    <main className="min-h-screen xl:mx-36 px-4 py-6">
       <SearchBar value={search} onChange={setSearch} />
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {filteredWords.map((word) => (
