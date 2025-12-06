@@ -1,7 +1,9 @@
+import { WordsPage } from "./WordsPage"
+
 const App = () => {
   return (
     <>
-      <button className="btn">Default</button>
+      <WordsPage/>
     </>
   );
 }

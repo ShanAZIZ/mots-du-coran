@@ -1,4 +1,4 @@
-export type ArabicWords = {
+export type ArabicWord = {
     arabicWord: string
     translation: string
     wordType: string
