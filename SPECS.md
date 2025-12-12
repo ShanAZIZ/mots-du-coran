@@ -1,16 +1,19 @@
 ## Specifications
 - Tout doit etre compatible Laptop et Mobile
 - Page d'acceuil
+    - Liens vers la page des mots
+    - Liens vers la page des QUIZ
+    - Chargement des mots en mémoire -> cache
+- Page "Mots"
+    - Choisir un/plusieurs chapitre
     - Barre de recherche/Filtre par chapitre
     - Liste des mots (cartes)
-    - Bouton: Commencer un QUIZ
-- Page qui liste les chapitres
-    - Choisir un/plusieurs chapitre
-- Page "Commencer le questionnaire"
+    - Organiser les mots
+- Page "Quizz"
     - Generer un questionnaire de 10 questions aléatoire sur les chapitres séléctionné
     - Bouton commencer le questionnaire
 
-- Page questionnaire (Pour chaque questions du chapitre générés)
+- Questionnaire (Pour chaque questions du chapitre générés)
     - Mot du resultat
     - Proposition de 4 réponses aléatoires
     - Choisir la proposition
@@ -21,3 +24,4 @@
 - Page fin de questionnaire
     - Afficher le score
 
+- Script de déploiement sur S3
