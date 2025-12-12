@@ -3,14 +3,11 @@ import { useEffect, useState } from "react";
 import { WordCard } from "../components/WordCard";
 import type { ArabicWord } from "../type";
 import { SearchBar } from "../components/SearchBar";
-import { LoadingPage } from "./LoadingPage";
-import { ErrorPage } from "./ErrorPage";
 import { BackButton } from "../components/BackButton";
+import { arabicWords } from "../data/data";
 
 export function WordsPage() {
   const [words, setWords] = useState<ArabicWord[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState<boolean | null>(null);
   const [search, setSearch] = useState("");
 
   const filteredWords = words.filter((w) => {
@@ -23,26 +20,8 @@ export function WordsPage() {
   });
 
   useEffect(() => {
-    const loadWords = async () => {
-      try {
-        setIsLoading(true);
-        const res = await fetch("data.json");
-        if (!res.ok) {
-          throw new Error("Failed to load words");
-        }
-        const data = (await res.json()) as ArabicWord[];
-        setWords(data);
-      } catch (err) {
-        setError(true);
-      } finally {
-        setIsLoading(false);
-      }
-    };
-    loadWords();
-  }, []);
-
-  if (isLoading) <LoadingPage />
-  if (error) <ErrorPage />
+    setWords(arabicWords.words)
+  })
 
   return (
     
