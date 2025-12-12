@@ -10,16 +10,16 @@ export type AllWords = {
     words: ArabicWords[]
 } 
 
-type Quiz = {
+export type Quiz = {
     questions: QuizQuestion[]
 }
 
-type QuizQuestion = {
-    ArabicWord: ArabicWord
+export type QuizQuestion = {
+    questionWord: ArabicWord
     propositions: QuizProposition[]
 }
 
-type QuizProposition = {
+export type QuizProposition = {
     arabicWord: ArabicWord
     isValidAnswer: boolean
 }
