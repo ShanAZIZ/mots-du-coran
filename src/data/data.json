@@ -1566,5 +1566,2455 @@
     "wordType": "Superlatif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
     "chapter": "D - SUPERLATIFS"
+  },
+  {
+    "arabicWord": "آيَةٌ",
+    "translation": "Signe, preuve, verset",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "آيَاتٌ",
+    "translation": "Signes, preuves, versets (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "بَيِّنَةٌ",
+    "translation": "Evidence, preuve, éclaircissement",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "بَيِّنَاتٌ",
+    "translation": "Evidences, preuves (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "الْقُرْآنُ",
+    "translation": "Le Qour'ân, lecture, récitation",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "نَعَمٌ",
+    "translation": "Bétail",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "أَنْعَامٌ",
+    "translation": "Bétail (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "جَبَلٌ",
+    "translation": "Montagne",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "جِبَالٌ",
+    "translation": "Montagnes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "بَحْرٌ",
+    "translation": "Mer, large étendue d'eau",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "بِحَارٌ",
+    "translation": "Mers (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "الشَّمْسُ",
+    "translation": "Le Soleil",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "الْقَمَرُ",
+    "translation": "La Lune",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "لَيْلٌ",
+    "translation": "Nuit",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "لَيْلَةٌ",
+    "translation": "Nuit",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "لَيَالٌ",
+    "translation": "Nuits (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "نَهَارٌ",
+    "translation": "Jour",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "أَرْضٌ",
+    "translation": "Terre",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "سَمَاءٌ",
+    "translation": "Ciel",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "سَمَاوَاتٌ",
+    "translation": "Cieux (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "A - SIGNES D'ALLAH"
+  },
+  {
+    "arabicWord": "آلَاءٌ",
+    "translation": "Faveurs, bienfaits, dons en abondance",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "سُلْطَانٌ",
+    "translation": "Autorité",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "فَضْلَ",
+    "translation": "Grâce, bienfait, faveur",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "مَاءٌ",
+    "translation": "Eau",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "مُلْكَ",
+    "translation": "Royauté, autorité, règne",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "نِعْمَةَ",
+    "translation": "Grâce, bienfait, faveur",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "أَجْمَعُونَ",
+    "translation": "Tous (ensemble)",
+    "wordType": "Adjectif",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "أَجْمَعِينَ",
+    "translation": "Tous (ensemble)",
+    "wordType": "Adjectif",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "إِذْنَ",
+    "translation": "Permission, autorisation",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "بَأْسَ",
+    "translation": "Puissance, colère, punition, tourment",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "جَمِيعَ",
+    "translation": "Tout, tous, entier",
+    "wordType": "Adjectif",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "سَوَاءٌ",
+    "translation": "Même, égale, pareil",
+    "wordType": "Adjectif",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "فَرِيقَ",
+    "translation": "Partie, groupe, division",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "B - BENEDICTIONS, ABONDANCE, GRÂCES ET AUTORITE"
+  },
+  {
+    "arabicWord": "بَيْتَ",
+    "translation": "Maison, demeure, habitation",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "بُيُوتٌ",
+    "translation": "Maisons, demeures (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "دَارٌ",
+    "translation": "Maison, demeure, habitation",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "دِيَارٌ",
+    "translation": "Maisons, demeures (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "الدُّنْيَا",
+    "translation": "Monde proche, Ici-bas",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "سَبِيلَ",
+    "translation": "Chemin, voie",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "سُبُلٌ",
+    "translation": "Chemins, voies (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "صِرَاطٌ",
+    "translation": "Chemin, voie",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "عَالَمَ",
+    "translation": "Monde, les mondes",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "عَالَمِينَ",
+    "translation": "Mondes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "فِتْنَةَ",
+    "translation": "Epreuve, persécution",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "قَرْيَةَ",
+    "translation": "Cité, ville",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "قُرَى",
+    "translation": "Cités, villes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "مَالٌ",
+    "translation": "Richesse, biens matériels",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "أَمْوَالٌ",
+    "translation": "Richesses, biens (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "مَتَاعَ",
+    "translation": "Plaisir, provision",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "مَسْجِدٌ",
+    "translation": "Mosquée",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "مَسَاجِدٌ",
+    "translation": "Mosquées (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "مَكَانَ",
+    "translation": "Place, endroit, lieu",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "مَكَانَةَ",
+    "translation": "Place, position",
+    "wordType": "Nom",
+    "wordArabicType": "خَلْقُ اللهِ وَ",
+    "chapter": "C - UNIVERS, MONDE(S), DEMEURE ET ICI-BAS"
+  },
+  {
+    "arabicWord": "صَاحِبٌ",
+    "translation": "Compagnon",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "أَصْحَابٌ",
+    "translation": "Compagnons (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "عَاقِبَةَ",
+    "translation": "Fin, sort, terme",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "عَذَابٌ",
+    "translation": "Tourment, châtiment",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "عِقَابٌ",
+    "translation": "Châtiment, punition, rétribution",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "قِيَامَةَ",
+    "translation": "Résurrection",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "لِقَاءٌ",
+    "translation": "Rencontre",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "مُسَمًّى",
+    "translation": "Fixé, déterminé, spécifié, nommé, désigné",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "نَارٌ",
+    "translation": "Feu, fournaise",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "نَهَرٌ",
+    "translation": "Rivière, cours d'eau",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "أَنْهَارٌ",
+    "translation": "Rivières, cours d'eau (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "وَيْلٌ",
+    "translation": "Malheur à …",
+    "wordType": "Interjection",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "يَوْمٌ",
+    "translation": "Jour, période",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "أَيَّامٌ",
+    "translation": "Jours (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "يَوْمَئِذٍ",
+    "translation": "Ce jour-là, ce jour-ci",
+    "wordType": "Expression temporelle",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "A - LE JOUR DE LA RESURRECTION (1/2)"
+  },
+  {
+    "arabicWord": "أَبَدًا",
+    "translation": "Toujours, pour toujours, à jamais, jamais",
+    "wordType": "Adverbe",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "أَجْرٌ",
+    "translation": "Récompense",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "أُجُورٌ",
+    "translation": "Récompenses (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "أَجَلَ",
+    "translation": "Terme, délai",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "الآخِرَةُ",
+    "translation": "L'Au-delà",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "أَلِيمَ",
+    "translation": "Douloureux",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "ثَوَابَ",
+    "translation": "Récompense, bonne rétribution",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "جَحِيمَ",
+    "translation": "Enfer, feu ardent, fournaise",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "جَزَاءٌ",
+    "translation": "Récompense, bonne rétribution",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "الْجَنَّةُ",
+    "translation": "Le Paradis, jardin",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "جَنَّاتٌ",
+    "translation": "Paradis, jardins (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "جَهَنَّمَ",
+    "translation": "L'Enfer",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "حِسَابٌ",
+    "translation": "Compte(s)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "السَّاعَةُ",
+    "translation": "L'Heure, heure",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "B - LE JOUR DE LA RESURRECTION (2/2)"
+  },
+  {
+    "arabicWord": "أَمْرٌ",
+    "translation": "Affaire, cas, matière, ordre (commandement)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "أُمُورٌ",
+    "translation": "Affaires, ordres (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "تَقْوَى",
+    "translation": "Protection, prémunition, piété, crainte",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "حَقٌّ",
+    "translation": "Vérité, vrai, droit, droiture",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "بَاطِلَ",
+    "translation": "Faux, caduque, mensonge",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "حِكْمَةَ",
+    "translation": "Sagesse",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "حَمْدٌ",
+    "translation": "Louange",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "دِينَ",
+    "translation": "Religion, loi",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "زَكَاةَ",
+    "translation": "Aumône purificatrice, charité",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "شَهِيدٌ",
+    "translation": "Témoin",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "شُهَدَاءُ",
+    "translation": "Témoins (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "صَلَاةَ",
+    "translation": "Prière, invocation, supplication",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "مُبِينٌ",
+    "translation": "Clair, explicite, évident",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "نُورٌ",
+    "translation": "Lumière",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "C - RELIGION"
+  },
+  {
+    "arabicWord": "أَحَدٌ",
+    "translation": "Un",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "إِحْدَى",
+    "translation": "Un (féminin)",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "إِلـٰهٌ",
+    "translation": "Divinité(s)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "آلِهَةٌ",
+    "translation": "Divinités (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "شَرِيكَ",
+    "translation": "Partenaire, associé",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "شُرَكَاءُ",
+    "translation": "Partenaires, associés (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "شَهَادَةَ",
+    "translation": "Témoignage",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "شَهَادَاتٌ",
+    "translation": "Témoignages (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "عَرْشَ",
+    "translation": "Trône",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "عَهْدَ",
+    "translation": "Engagement, pacte",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "الْغَيْبَ",
+    "translation": "Le monde de l'invisible. Invisible, absence",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "كِتَابٌ",
+    "translation": "Ecrit, Livre, registre",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "كُتُبٌ",
+    "translation": "Ecrits, Livres (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "كَلِمَةَ",
+    "translation": "Mot, parole",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "كَلِمَاتٌ",
+    "translation": "Mots, paroles (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "مَلَكَ",
+    "translation": "Ange",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "مَلَائِكَةٌ",
+    "translation": "Anges (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "مِيثَاقَ",
+    "translation": "Contrat, pacte",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "وَاحِدٌ",
+    "translation": "Un, unique",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "وَاحِدَةٌ",
+    "translation": "Une, unique (féminin)",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "D - FOI"
+  },
+  {
+    "arabicWord": "أَعْمَالٌ",
+    "translation": "Actions, actes",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "حَسَنَةٌ",
+    "translation": "Bonne (action)",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "حَسَنَاتٌ",
+    "translation": "Bonnes actions (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "سَيِّئَةٌ",
+    "translation": "Mauvaise (action)",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "سَيِّئَاتٌ",
+    "translation": "Mauvaises actions (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "خَيْرٌ",
+    "translation": "Bien, meilleur",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "شَرٌّ",
+    "translation": "Mauvais, pire",
+    "wordType": "Nom/Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "أَشْرَارٌ",
+    "translation": "Mauvais (pluriel)",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "إِثْمَ",
+    "translation": "Péché, transgression, crime",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "ذَنْبٌ",
+    "translation": "Péché, transgression, faute",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "ذُنُوبٌ",
+    "translation": "Péchés, fautes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "جُنَاحَ",
+    "translation": "Péché, faute",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "حَرَامَ",
+    "translation": "Interdit, illégal, sacré",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "اسْمٌ",
+    "translation": "Nom",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "أَسْمَاءٌ",
+    "translation": "Noms (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "حَدِيثٌ",
+    "translation": "Discours, parole, récit, songe",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "أَحَادِيثٌ",
+    "translation": "Discours, récits (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "طَيِّبَةٌ",
+    "translation": "Bonne chose",
+    "wordType": "Adjectif",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "طَيِّبَاتٌ",
+    "translation": "Bonnes choses (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
+    "chapter": "E - ACTES"
+  },
+  {
+    "arabicWord": "رَسُولٌ",
+    "translation": "Messager(s)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "رُسُلٌ",
+    "translation": "Messagers (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "مُرْسَلٌ",
+    "translation": "Messager",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "مُرْسَلُونَ",
+    "translation": "Messagers (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "نَبِيٌّ",
+    "translation": "Prophète, Envoyé",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "نَبِيُّونَ",
+    "translation": "Prophètes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "نَبِيِّينَ",
+    "translation": "Prophètes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "أَنْبِيَاءُ",
+    "translation": "Prophètes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "آدَمَ",
+    "translation": "Adam",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "نُوحٌ",
+    "translation": "Noé",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "إِبْرَاهِيمَ",
+    "translation": "Abraham",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "لُوطٌ",
+    "translation": "Lot",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "إِسْمَاعِيلَ",
+    "translation": "Ismaël",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "إِسْحَاقَ",
+    "translation": "Isaac",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "يَعْقُوبَ",
+    "translation": "Jacob",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "إِسْرَائِيلَ",
+    "translation": "Israël",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "يُوسُفُ",
+    "translation": "Joseph",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "هُودٌ",
+    "translation": "Houd (Prophète des 'Ad)",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "شُعَيْبٌ",
+    "translation": "Chou'ayb (Prophète des Madyan)",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "صَالِحٌ",
+    "translation": "Sâlih (Prophète des Thamoud)",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "مُوسَى",
+    "translation": "Moïse",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "عِيسَى ابْنُ",
+    "translation": "Jésus (fils de)",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "مَرْيَمَ",
+    "translation": "Marie",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "شَيْطَانٌ",
+    "translation": "Satan; démons",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "شَيَاطِينَ",
+    "translation": "Satans, démons (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "فِرْعَوْنَ",
+    "translation": "Pharaon",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "عَادٌ",
+    "translation": "Ad (peuple)",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "ثَمُودُ",
+    "translation": "Thamoud (peuple)",
+    "wordType": "Nom propre",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "A - PERSONNAGES"
+  },
+  {
+    "arabicWord": "أُمٌّ",
+    "translation": "Mère",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أُمَّهَاتٌ",
+    "translation": "Mères (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أَبٌ",
+    "translation": "Père",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "آبَاءٌ",
+    "translation": "Pères (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "زَوْجٌ",
+    "translation": "Femme, mari",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أَزْوَاجٌ",
+    "translation": "Épouses, époux (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "رَجُلٌ",
+    "translation": "Homme",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "رِجَالٌ",
+    "translation": "Hommes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "نِسَاءٌ",
+    "translation": "Femme(s)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "امْرَأَةٌ",
+    "translation": "Femme",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "وَلَدٌ",
+    "translation": "Enfant",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أَوْلَادٌ",
+    "translation": "Enfants (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "وَالِدٌ",
+    "translation": "Géniteur (père)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "وَالِدَيْنِ",
+    "translation": "Les deux parents (duel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "وَالِدَةٌ",
+    "translation": "Mère",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "وَالِدَاتٌ",
+    "translation": "Mères (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "ذُرِّيَّةَ",
+    "translation": "Descendants, enfants, progéniture",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "ابْنٌ",
+    "translation": "Fils",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "بَنُونَ",
+    "translation": "Fils (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "بَنِينَ",
+    "translation": "Fils (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أَبْنَاءُ",
+    "translation": "Fils (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "ابْنَتٌ",
+    "translation": "Fille",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "بَنَاتٌ",
+    "translation": "Filles (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أَخٌ",
+    "translation": "Frère(s)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "إِخْوَانٌ",
+    "translation": "Frères (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أُخْتٌ",
+    "translation": "Sœur(s)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أَخَوَاتٌ",
+    "translation": "Sœurs (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "أَبَوَانِ",
+    "translation": "Deux parents",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "B - PARENTS, FAMILLE"
+  },
+  {
+    "arabicWord": "وَجْهٌ",
+    "translation": "Face, visage",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "وُجُوهٌ",
+    "translation": "Faces, visages (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "عَيْنَ",
+    "translation": "Œil",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أَعْيُنٌ",
+    "translation": "Yeux (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أَبْصَارٌ",
+    "translation": "Regards",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أَفْوَاهٌ",
+    "translation": "Bouches",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "لِسَانٌ",
+    "translation": "Langue (membre), langage",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أَلْسِنَةٌ",
+    "translation": "Langues (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "قَلْبٌ",
+    "translation": "Cœur",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "قُلُوبٌ",
+    "translation": "Cœurs (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "صَدْرٌ",
+    "translation": "Poitrine, coeur",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "صُدُورٌ",
+    "translation": "Poitrines (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "يَدٌ",
+    "translation": "Main",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أَيْدِي",
+    "translation": "Mains (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "رِجْلٌ",
+    "translation": "Pied",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أَرْجُلٌ",
+    "translation": "Pieds (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "نَفْسٌ",
+    "translation": "Âme, Être",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أَنْفُسٌ",
+    "translation": "Âmes (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "رُوحٌ",
+    "translation": "Esprit",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "قُوَّةَ",
+    "translation": "Force, pouvoir",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "C - PARTIES DU CORPS, ÂMES"
+  },
+  {
+    "arabicWord": "أُمَّةٌ",
+    "translation": "Communauté",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "أُمَمٌ",
+    "translation": "Communautés (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "قَوْمَ",
+    "translation": "Peuple, gens",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "إِنْسَانٌ",
+    "translation": "Etre humain, genre humain",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "إِنْسٌ",
+    "translation": "Etre humain, genre humain",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "نَاسٌ",
+    "translation": "Hommes, gens, humanité",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "ذَكَرٌ",
+    "translation": "Mâle",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "ذُكُورٌ",
+    "translation": "Mâles (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "ذُكْرَانٌ",
+    "translation": "Mâles (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "أُنْثَى",
+    "translation": "Femelle",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "إِنَاثٌ",
+    "translation": "Femelles (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "عَبْدٌ",
+    "translation": "Serviteur, adorateur",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "عَبِيدٌ",
+    "translation": "Serviteurs (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "عِبَادٌ",
+    "translation": "Serviteurs, adorateurs (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "عَدُوٌّ",
+    "translation": "Ennemi",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "أَعْدَاءُ",
+    "translation": "Ennemis (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "كَافِرٌ",
+    "translation": "Mécréants, négateurs, infidèles",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "كُفَّارٌ",
+    "translation": "Mécréants (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "كَافِرِونَ",
+    "translation": "Mécréants (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "مُجْرِمٌ",
+    "translation": "Criminel",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "مَلَأ",
+    "translation": "Notables, leaders, chefs, élite",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "وَلِيّ",
+    "translation": "Responsable, protecteur, allié, tuteur",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "أَوْلِيَاء",
+    "translation": "Responsables, protecteurs, alliés, tuteurs (pluriel)",
+    "wordType": "Nom",
+    "wordArabicType": "الأَشْخَاصُ",
+    "chapter": "D - GENS, INDIVIDUS"
+  },
+  {
+    "arabicWord": "فَعَلَ",
+    "translation": "Faire (+verbe générique exprimant la forme)",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "فَتَحَ",
+    "translation": "Ouvrir, donner la victoire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "بَعَثَ",
+    "translation": "Faire émerger, envoyer, mandater, ressusciter les morts",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "جَعَلَ",
+    "translation": "Faire, mettre en place, faire de qqch une autre qqch",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "جَمَعَ",
+    "translation": "Rassembler, collecter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "ذَهَبَ",
+    "translation": "Aller, partir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "رَفَعَ",
+    "translation": "Elever, hisser",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "سَحَرَ",
+    "translation": "Enchanter, ensorceler",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "صَلَحَ",
+    "translation": "Agir avec droiture, réformer, restaurer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "لَعَنَ",
+    "translation": "Maudir, exécrer, condamner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "نَفَعَ",
+    "translation": "Profiter, tirer un avantage",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 1"
+  },
+  {
+    "arabicWord": "فَعَلَ",
+    "translation": "Faire (+verbe générique exprimant la forme)",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "نَصَرَ",
+    "translation": "Secourir, aider, supporter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "بَلَغَ",
+    "translation": "Atteindre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "تَرَكَ",
+    "translation": "Laisser, délaisser, abandonner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "حَشَرَ",
+    "translation": "Rassembler, réunir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "حَكَمَ",
+    "translation": "Juger, légiférer, décider, départager",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "خَرَجَ",
+    "translation": "Sortir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "خَلَدَ",
+    "translation": "Vivre éternellement, perdurer à l'infini",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "خَلَقَ",
+    "translation": "Créer à partir du néant",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "دَخَلَ",
+    "translation": "Entrer, pénétrer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "ذَكَرَ",
+    "translation": "Se souvenir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "رَزَقَ",
+    "translation": "Pourvoir à la subsistance de, accorder/donner qqch à qqn",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 2"
+  },
+  {
+    "arabicWord": "سَجَدَ",
+    "translation": "Se prosterner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "شَعَرَ",
+    "translation": "Ressentir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "شَكَرَ",
+    "translation": "Etre reconnaissant, remercier",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "صَدَقَ",
+    "translation": "Etre vrai, dire la vérité",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "عَبَدَ",
+    "translation": "Adorer, servir, s'assujetir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "فَسَقَ",
+    "translation": "Transgresser",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "قَتَلَ",
+    "translation": "Tuer, combattre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "قَعَدَ",
+    "translation": "S'asseoir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "كَتَبَ",
+    "translation": "Prescrire, écrire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "كَفَرَ",
+    "translation": "Mécroire, renier, faire preuve d'ingratitude",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "مَكَرَ",
+    "translation": "Comploter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "نَظَرَ",
+    "translation": "Regarder, attendre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 3"
+  },
+  {
+    "arabicWord": "فَعَلَ",
+    "translation": "Faire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "ضَرَبَ",
+    "translation": "Frapper",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "حَمَلَ",
+    "translation": "Porter, supporter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "صَبَرَ",
+    "translation": "Supporter avec patience, endurer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "ظَلَمَ",
+    "translation": "Etre injuste/inique causer du tort à",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "عَرَفَ",
+    "translation": "Connaitre, savoir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "عَقَلَ",
+    "translation": "Comprendre, raisonner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "غَفَرَ",
+    "translation": "Pardonner, effacer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "قَدَرَ",
+    "translation": "Décreter, avoir du pouvoir, être capable",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "كَذَبَ",
+    "translation": "Mentir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "كَسَبَ",
+    "translation": "Acquérir, gagner, tirer un avantage",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "مَلَكَ",
+    "translation": "Posséder, détenir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعَلَ - يَفْعِلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 4"
+  },
+  {
+    "arabicWord": "فَعِلَ",
+    "translation": "Faire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "سَمِعَ",
+    "translation": "Entendre, écouter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "حَزِنَ",
+    "translation": "Etre triste, affligé",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "حَسِبَ",
+    "translation": "Penser, se figurer, croire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "حَفِظَ",
+    "translation": "Préserver, protéger",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "خَسِرَ",
+    "translation": "Perdre, échouer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "رَحِمَ",
+    "translation": "Etre miséricordieux envers qqn",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "شَهِدَ",
+    "translation": "Etre présent, témoigner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "عَلِمَ",
+    "translation": "Connaitre, savoir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "عَمِلَ",
+    "translation": "Œuvrer, faire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "كَرِهَ",
+    "translation": "Détester, réprouver",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعِلَ - يَفْعَلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "بَصُرَ",
+    "translation": "Etre clairvoyant, comprendre, voir, poser le regard sur",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "فَعُلَ - يَفْعُلُ",
+    "chapter": "A - LES VERBES SIMPLES - FORME 5"
+  },
+  {
+    "arabicWord": "حَيَّ",
+    "translation": "Vivre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "رَدَّ",
+    "translation": "Retourner, redonner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "صَدَّ",
+    "translation": "Détourner, rejeter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "ضَرَّ",
+    "translation": "Causer du tort, nuire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "ضَلَّ",
+    "translation": "Se perdre, s'égarer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "ظَنَّ",
+    "translation": "Penser, croire, supposer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "عَدَّ",
+    "translation": "Compter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "غَرَّ",
+    "translation": "Tromper, leurrer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "مَدَّ",
+    "translation": "Etendre, prolonger, tendre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "مَسَّ",
+    "translation": "Toucher",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "وَدَّ",
+    "translation": "Aimer, affectionner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الْمُضَاعَف",
+    "chapter": "A - LES VERBES SIMPLES - 6-LES DEUX DERNIERES LETTRES SONT IDENTIQUES"
+  },
+  {
+    "arabicWord": "وَذَرَ",
+    "translation": "Délaisser, abandonner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَضَعَ",
+    "translation": "Mettre, poser",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَقَعَ",
+    "translation": "Arriver, survenir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَهَبَ",
+    "translation": "Gratifier, offrir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَجَدَ",
+    "translation": "Trouver",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَرِثَ",
+    "translation": "Hériter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَزَرَ",
+    "translation": "Supporter une charge, un fardeau",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَصَفَ",
+    "translation": "Décrire",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَعَدَ",
+    "translation": "Promettre, prendre un engagement",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَقَى",
+    "translation": "Protéger, préserver",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "وَسِعَ",
+    "translation": "Englober, comporter, être vaste",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المِثَال",
+    "chapter": "A - LES VERBES SIMPLES - 7 - LA PREMIERE LETTRE DU VERBE : و / ي"
+  },
+  {
+    "arabicWord": "تَابَ",
+    "translation": "Se repentir, revenir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "ذَاقَ",
+    "translation": "Goûter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "فَازَ",
+    "translation": "Triompher, sortir victorieux, gagner, réussir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "قَالَ",
+    "translation": "Dire, prononcer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "قَامَ",
+    "translation": "Se lever, se mettre debout, se dresser",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "كَانَ",
+    "translation": "Etre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "مَاتَ",
+    "translation": "Mourir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "خَافَ",
+    "translation": "Avoir peur, craindre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "كَادَ",
+    "translation": "Etre sur le point de faire, faillir, manquer de peu",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "كَادَ",
+    "translation": "Clompoter, conspirer, manigancer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "زَادَ",
+    "translation": "Augmenter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ الأَجْوَف",
+    "chapter": "A - LES VERBES SIMPLES - 8-LA LETTRE CENTRALE : و OU ي"
+  },
+  {
+    "arabicWord": "تَلَا",
+    "translation": "Réciter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "دَعَا",
+    "translation": "Appeler, invoquer, inviter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "عَفَا",
+    "translation": "Effacer, gracier, pardonner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "بَغَى",
+    "translation": "Vouloir, envier",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "جَرَى",
+    "translation": "S'écouler",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "جَزَى",
+    "translation": "Récompenser, rétribuer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "قَضَى",
+    "translation": "Décreter, accomplir, effectuer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "كَفَى",
+    "translation": "Suffir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "هَدَى",
+    "translation": "Guider, éclairer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "خَشِيَ",
+    "translation": "Craindre",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "رَضِيَ",
+    "translation": "Etre satisfait/content, agréer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "نَسِيَ",
+    "translation": "Oublier",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ النَّاقِص",
+    "chapter": "A - LES VERBES SIMPLES - 9- LA LETTRE FINALE : و OU ي"
+  },
+  {
+    "arabicWord": "سَأَلَ",
+    "translation": "Demander, questionner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "قَرَأَ",
+    "translation": "Lire, réciter",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "أَخَذَ",
+    "translation": "Prendre, saisir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "أَكَلَ",
+    "translation": "Manger",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "أَمَرَ",
+    "translation": "Commander, ordonner",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "أَمَنَ",
+    "translation": "Etre à l'abri, en sécurité; être en confiance",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "أَبَى",
+    "translation": "Refuser, décliner, dénier",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "رَأَى",
+    "translation": "Voir",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "أَتَى",
+    "translation": "Venir, arriver",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "شَاءَ",
+    "translation": "Vouloir, désirer",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "سَاءَ",
+    "translation": "Etre mauvais",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
+  },
+  {
+    "arabicWord": "جَاءَ",
+    "translation": "Venir, arriver",
+    "wordType": "Verbe (Passe)",
+    "wordArabicType": "الفِعْلُ المَهْمُوز",
+    "chapter": "A - LES VERBES SIMPLES - 10- UNE DES LETTRES DU VERBE EST UNE HAMZA"
   }
 ]
