@@ -25,7 +25,7 @@ const getQuizQuestion = (
   propositionCount: number = 3,
 ): QuizQuestion => {
   const propositionWords: ArabicWord[] = [];
-  while (propositionWords.length <= propositionCount) {
+  while (propositionWords.length < propositionCount) {
     const word = getRandomWord(allWords);
     const wordIsValidProposition =
       !propositionWords.some((w) => w.arabicWord === word.arabicWord) &&
