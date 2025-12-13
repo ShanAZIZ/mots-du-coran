@@ -24,14 +24,12 @@ export const QuizPropositionButton = ({
       return "btn-error";
     }
 
-    return "btn-disabled";
   };
 
   return (
     <button
       onClick={onClick}
-      disabled={isAnswered}
-      className={`btn btn-lg w-full justify-start text-left ${getButtonClass()}`}
+      className={`btn btn-lg w-full justify-start text-left ${getButtonClass()} p-3`}
     >
       <span className="text-base md:text-lg font-medium">
         {proposition.arabicWord.translation}

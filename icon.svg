@@ -1,0 +1,54 @@
+<svg
+  width="512"
+  height="512"
+  viewBox="0 0 512 512"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- Fond arrondi -->
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="#0F766E"/>
+
+  <!-- Livre ouvert -->
+  <path
+    d="M128 160
+       Q256 120 384 160
+       V360
+       Q256 320 128 360
+       Z"
+    fill="#ECFEFF"
+  />
+
+  <!-- Ligne centrale du livre (haut) -->
+  <line
+    x1="256"
+    y1="160"
+    x2="256"
+    y2="215"
+    stroke="#0F766E"
+    stroke-width="6"
+  />
+
+  <!-- Ligne centrale du livre (bas) -->
+  <line
+    x1="256"
+    y1="315"
+    x2="256"
+    y2="360"
+    stroke="#0F766E"
+    stroke-width="6"
+  />
+
+  <!-- Mot arabe -->
+  <text
+    x="256"
+    y="265"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-size="96"
+    font-family="Amiri, Scheherazade, serif"
+    fill="#0F766E"
+  >
+    قلم
+  </text>
+
+</svg>

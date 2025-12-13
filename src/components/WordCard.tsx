@@ -1,23 +1,29 @@
 import type { ArabicWord } from "../type";
 
-
-type WordCardProps = {
-  word: ArabicWord;
-};
-export function WordCard({ word }: WordCardProps) {
+export function WordCard({ word }: { word: ArabicWord }) {
   return (
-    <div className="card shadow-md">
+    <div className="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 border border-base-200">
       <div className="card-body">
-        <h2 className="card-title text-2xl text-right">{word.arabicWord}</h2>
-        <p className="text-sm opacity-80">{word.translation}</p>
-          <span className="badge badge-secondary text-sm">
-            {word.wordType}
-          </span>
-      </div>
-      <div className="card-actions justify-end">
-        <span className="text-accent-content  p-3">
-           {word.chapter}
-        </span>
+        {word.wordType && (
+          <div className="flex items-center gap-2 mb-2">
+            <i className="fas fa-book-open text-primary"></i>
+            <div className="badge badge-primary badge-sm font-semibold">
+              {word.wordType}
+            </div>
+          </div>
+        )}
+        
+        <div className="space-y-2">
+          <div className="text-3xl font-bold text-base-content text-right" dir="rtl">
+            {word.arabicWord}
+          </div>
+                    
+          <div className="divider my-2"></div>
+          
+          <div className="text-lg font-medium text-base-content">
+            {word.translation}
+          </div>
+        </div>
       </div>
     </div>
   );

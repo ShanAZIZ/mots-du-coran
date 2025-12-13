@@ -1,8 +1,6 @@
 import { useState } from "react";
 import type { QuizQuestion } from "../type";
 import { QuizPropositionButton } from "./QuizPropositionButton";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCircleCheck, faCircleXmark } from "@fortawesome/free-solid-svg-icons";
 
 export const QuizQuestionCard = ({
   question,
@@ -49,30 +47,6 @@ export const QuizQuestionCard = ({
             />
           ))}
         </div>
-
-        {isAnswered && (
-          <div className="mt-4 md:mt-6 text-center">
-            {question.propositions[selectedProposition!].isValidAnswer ? (
-              <div className="alert alert-success">
-                <FontAwesomeIcon icon={faCircleCheck} />
-                <span className="font-semibold">Correct !</span>
-              </div>
-            ) : (
-              <div className="alert alert-error">
-                <FontAwesomeIcon icon={faCircleXmark} />
-                <span className="text-sm md:text-base">
-                  Faux ! La bonne réponse est :{" "}
-                  <strong>
-                    {
-                      question.propositions.find((p) => p.isValidAnswer)
-                        ?.arabicWord.translation
-                    }
-                  </strong>
-                </span>
-              </div>
-            )}
-          </div>
-        )}
       </div>
     </div>
   );

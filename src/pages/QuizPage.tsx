@@ -43,8 +43,8 @@ export const QuizPage = () => {
 
   if (isQuizComplete) {
     return (
-      <div className="min-h-screen flex items-center justify-center p-4">
-        <div className="card bg-base-100 shadow-xl max-w-md w-full mx-4">
+      <div className="min-h-screen flex items-center justify-center p-4 bg-base-200">
+        <div className="card shadow-xl max-w-md w-full mx-4">
           <div className="card-body text-center p-6 md:p-8">
             <h2 className="card-title text-2xl md:text-3xl font-bold justify-center mb-4">
               Quiz terminé !

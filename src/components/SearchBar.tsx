@@ -4,14 +4,19 @@ type SearchBarProps = {
 };
 export function SearchBar({ value, onChange }: SearchBarProps) {
   return (
-    <div className="w-full flex justify-center mb-6">
-      <input
-        type="search"
-        className="input input-bordered w-full max-w-md"
-        placeholder="Rechercher un mot ou une traduction…"
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-      />
+    <div className="form-control w-full max-w-2xl">
+      <div className="input-group">
+        <span className="bg-base-200">
+          <i className="fas fa-search"></i>
+        </span>
+        <input
+          type="search"
+          className="input input-bordered w-full"
+          placeholder="Rechercher un mot en arabe, une traduction, un chapitre..."
+          value={value}
+          onChange={(e) => onChange(e.target.value)}
+        />
+      </div>
     </div>
   );
 }
