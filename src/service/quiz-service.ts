@@ -4,6 +4,17 @@ const getRandomWord = (allWords: ArabicWord[]) => {
   return allWords[Math.floor(Math.random() * allWords.length)];
 };
 
+const getshuffledPropositions = (array: QuizProposition[]): QuizProposition[] => {
+  const shuffled = [...array]; // Create a copy to avoid mutating the original
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]; // Swap elements
+  }
+  
+  return shuffled;
+}
+
 const getRandomWords = (
   allWords: ArabicWord[],
   count: number = 10,
@@ -47,7 +58,7 @@ const getQuizQuestion = (
 
   return {
     questionWord: answerWord,
-    propositions: propositions,
+    propositions: getshuffledPropositions(propositions),
   };
 };
 
@@ -57,3 +68,5 @@ export const getQuiz = (allWords: ArabicWord[]): Quiz => {
     questions: words.map((word) => getQuizQuestion(word, allWords))
   };
 };
+
+
