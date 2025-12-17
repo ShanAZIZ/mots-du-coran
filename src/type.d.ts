@@ -4,6 +4,17 @@ export type ArabicWord = {
     wordType: string
     wordArabicType: string
     chapter: string
+    verse?: Verse
+}
+
+export type Verse = {
+    arabic: string
+    verseNum: number
+    chapterNum: number
+    arabicChapter: string
+    translationChapter: string
+    transliterationChapter: string
+    translation: string
 }
 
 export type AllWords = {
