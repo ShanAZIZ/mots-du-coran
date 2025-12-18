@@ -75,26 +75,35 @@ export function WordsPage() {
         </div>
 
         {Object.entries(groupedWords).map(([chapter, chapterWords]) => (
-          <div key={chapter} className="mb-8 sm:mb-10">
-            <div className="flex flex-wrap items-center gap-2 sm:gap-3 mb-3 sm:mb-4">
-              <i className="fas fa-book-open text-primary text-xl sm:text-2xl"></i>
-              <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-base-content">
-                {chapter}
-              </h2>
-              <div className="badge badge-md sm:badge-lg badge-primary badge-outline">
-                {chapterWords.length}
+          <details
+            key={chapter}
+            className="collapse collapse-arrow bg-base-100 border border-base-300 mb-3 sm:mb-4"
+            name="chapter-accordion"
+            open
+          >
+            <summary className="collapse-title font-semibold">
+              <div className="flex flex-wrap items-center gap-2 sm:gap-3">
+                <i className="fas fa-book-open text-primary text-xl sm:text-2xl"></i>
+                <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-base-content">
+                  {chapter}
+                </h2>
+                <div className="badge badge-md sm:badge-lg badge-primary badge-outline">
+                  {chapterWords.length}
+                </div>
+              </div>
+            </summary>
+
+            <div className="collapse-content">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-4 pt-4">
+                {chapterWords.map((word, index) => (
+                  <WordCard
+                    key={`${word.arabicWord}-${word.translation}-${index}`}
+                    word={word}
+                  />
+                ))}
               </div>
             </div>
-
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-4">
-              {chapterWords.map((word, index) => (
-                <WordCard
-                  key={`${word.arabicWord}-${word.translation}-${index}`}
-                  word={word}
-                />
-              ))}
-            </div>
-          </div>
+          </details>
         ))}
 
         {filteredWords.length === 0 && (

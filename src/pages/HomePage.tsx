@@ -21,6 +21,19 @@ export function HomePage() {
           </Link>
         </div>
       </div>
+      <div className="mt-8 text-sm opacity-60">
+          <p>
+            Source des données :{" "}
+            <a
+              href="https://www.arabereussite.com/apprendre-les-mots-du-coran/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="link link-hover underline"
+            >
+              Arabe Réussite
+            </a>
+          </p>
+        </div>
     </div>
   );
 }
