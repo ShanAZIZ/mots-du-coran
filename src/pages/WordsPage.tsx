@@ -49,15 +49,20 @@ export function WordsPage() {
 
   return (
     <main className="min-h-screen bg-base-200">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6 lg:py-8">
-        <div className="mb-6 sm:mb-8 space-y-4 sm:space-y-6">
-          <BackButton />
-          <div className="flex flex-col items-center gap-3 sm:gap-4">
-            <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-base-content text-center">
+      <div className="sticky top-0 z-50 bg-base-100 shadow-md">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-4">
+          <div className="flex items-center justify-between gap-4">
+            <BackButton />
+            <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-base-content flex-shrink-0">
               Dictionnaire Arabe
             </h1>
-            <SearchBar value={search} onChange={setSearch} />
+            <div className="w-10"></div>
           </div>
+        </div>
+      </div>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6 lg:py-8">
+        <div className="mb-6 sm:mb-8 space-y-4 sm:space-y-6">
+          <SearchBar value={search} onChange={setSearch} />
         </div>
 
         <div className="alert shadow-sm mb-4 sm:mb-6">

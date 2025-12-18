@@ -7,7 +7,6 @@ export function BackButton() {
   return (
     <button onClick={() => navigate(-1)} className="btn btn-ghost gap-2">
       <FontAwesomeIcon icon={faArrowLeft} />
-      Retour
     </button>
   );
 }

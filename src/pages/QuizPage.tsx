@@ -6,12 +6,14 @@ import { QuizQuestionCard } from "../components/QuizQuestionCard";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import { QuizEndCard } from "../components/QuizEndCard";
+import { useNavigate } from "react-router";
 
 export const QuizPage = () => {
   const [quiz, setQuiz] = useState<Quiz | null>(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [isQuizComplete, setIsQuizComplete] = useState(false);
+  let navigate = useNavigate();
 
   useEffect(() => {
     setQuiz(getQuiz(arabicWords.words)); // TODO persistence
@@ -50,7 +52,7 @@ export const QuizPage = () => {
   }
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center p-4">
+    <div className="min-h-screen flex flex-col items-center mt-10 p-4">
       <div className="mb-4 md:mb-6 text-center w-full">
         <div className="badge badge-lg badge-primary mb-2">
           Question {currentQuestionIndex + 1} sur {quiz.questions.length}
@@ -71,6 +73,12 @@ export const QuizPage = () => {
           ? "Question suivante"
           : "Terminer"}
         <FontAwesomeIcon icon={faArrowRight} />
+      </button>
+      <button
+        className="btn btn-error btn-lg mt-4 md:mt-6"
+        onClick={() => navigate(-1)}
+      >
+        Quitter
       </button>
     </div>
   );
