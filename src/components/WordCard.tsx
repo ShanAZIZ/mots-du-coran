@@ -1,9 +1,10 @@
-import { useState } from "react";
+// import { useState } from "react";
 import type { ArabicWord } from "../type";
-import { VerseDetail } from "./VerseDetail";
+// import { VerseDetail } from "./VerseDetail";
+import { ArabicText } from "./ArabicText";
 
 export function WordCard({ word }: { word: ArabicWord }) {
-  const [showVerse, setShowVerse] = useState(false);
+  // const [showVerse, setShowVerse] = useState(false);
 
   return (
     <div className="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 border border-base-200">
@@ -18,20 +19,16 @@ export function WordCard({ word }: { word: ArabicWord }) {
         )}
 
         <div className="space-y-2">
-          <div
-            className="text-3xl font-bold text-base-content text-right"
-            dir="rtl"
-          >
-            {word.arabicWord}
+          <div className="text-3xl font-amiri-quran font-bold text-base-content text-right">
+            <ArabicText text={word.arabicWord} />
           </div>
-
           <div className="divider my-2"></div>
 
           <div className="text-lg font-medium text-base-content">
             {word.translation}
           </div>
         </div>
-        {word.verse && (
+        {/* {word.verse && (
           <div className="mt-4">
             <button
               onClick={() => setShowVerse(!showVerse)}
@@ -48,7 +45,7 @@ export function WordCard({ word }: { word: ArabicWord }) {
             </button>
           </div>
         )}
-        {word.verse && showVerse && <VerseDetail verse={word.verse} />}
+        {word.verse && showVerse && <VerseDetail verse={word.verse} />} */}
       </div>
     </div>
   );

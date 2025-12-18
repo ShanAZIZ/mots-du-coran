@@ -1,6 +1,7 @@
 import { useState } from "react";
 import type { QuizQuestion } from "../type";
 import { QuizPropositionButton } from "./QuizPropositionButton";
+import { ArabicText } from "./ArabicText";
 
 export const QuizQuestionCard = ({
   question,
@@ -28,11 +29,8 @@ export const QuizQuestionCard = ({
     <div className="card bg-base-100 shadow-xl w-full max-w-2xl mx-4">
       <div className="card-body p-4 md:p-6 lg:p-8">
         <div className="mb-6 md:mb-8 text-center">
-          <h2
-            className="text-4xl md:text-5xl lg:text-6xl font-bold mb-2"
-            dir="rtl"
-          >
-            {question.questionWord.arabicWord}
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-2">
+            <ArabicText text={question.questionWord.arabicWord} />
           </h2>
         </div>
 

@@ -5,7 +5,7 @@ import { arabicWords } from "../data/data";
 import { QuizQuestionCard } from "../components/QuizQuestionCard";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
-import { Link } from "react-router";
+import { QuizEndCard } from "../components/QuizEndCard";
 
 export const QuizPage = () => {
   const [quiz, setQuiz] = useState<Quiz | null>(null);
@@ -44,34 +44,7 @@ export const QuizPage = () => {
   if (isQuizComplete) {
     return (
       <div className="min-h-screen flex items-center justify-center p-4 bg-base-200">
-        <div className="card shadow-xl max-w-md w-full mx-4">
-          <div className="card-body text-center p-6 md:p-8">
-            <h2 className="card-title text-2xl md:text-3xl font-bold justify-center mb-4">
-              Quiz terminé !
-            </h2>
-            <p className="text-5xl md:text-6xl mb-6">🎉</p>
-            <div className="stats shadow">
-              <div className="stat place-items-center">
-                <div className="stat-title">Votre score</div>
-                <div className="stat-value text-primary">
-                  {score} / {quiz.questions.length}
-                </div>
-                <div className="stat-desc">
-                  {score === quiz.questions.length
-                    ? "Parfait !"
-                    : score >= quiz.questions.length / 2
-                      ? "Bien joué !"
-                      : "Continuez à pratiquer !"}
-                </div>
-              </div>
-            </div>
-            <div className="card-actions justify-center mt-6">
-              <Link to={"/"} className="btn btn-primary btn-lg">
-                Terminer
-              </Link>
-            </div>
-          </div>
-        </div>
+        <QuizEndCard score={score} totalQuestions={quiz.questions.length} />
       </div>
     );
   }

@@ -2,3 +2,12 @@
 @plugin "daisyui" {
   themes: light --default, dark --prefersdark, cupcake;
 }
+
+@font-face {
+  font-family: Amiri Quran;
+  src: url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+}
+
+@theme {
+  --font-amiri-quran: Amiri Quran;
+}
