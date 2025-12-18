@@ -2,7 +2,7 @@ import { Link } from "react-router";
 
 export function HomePage() {
   return (
-    <div className="min-h-screen bg-base-200 flex flex-col justify-center items-center p-6">
+    <div className="min-h-screen bg-base-100 flex flex-col justify-center items-center p-6">
       <div className="text-center max-w-lg w-full">
         <h1 className="text-4xl font-bold mb-4">
           Révise le Vocabulaire du Coran

@@ -29,5 +29,3 @@
 
 - Page fin de questionnaire ✅
     - Afficher le score ✅
-
-- Script de déploiement sur S3
