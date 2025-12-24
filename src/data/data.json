@@ -4,7 +4,16 @@
     "translation": "Ceci, cela, ce, cet, celui-ci",
     "wordType": "Pronom démonstratif",
     "wordArabicType": "أَسْمَاءُ الإِشَارَةِ",
-    "chapter": "Pronoms"
+    "chapter": "Pronoms",
+    "verse": {
+      "arabic": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+      "verseNum": 35,
+      "chapterNum": 77,
+      "arabicChapter": "المرسلات",
+      "translationChapter": "Les envoyés",
+      "transliterationChapter": "Al-Mursalat",
+      "translation": "Ce sera le jour où ils ne [peuvent] pas parler"
+    }
   },
   {
     "arabicWord": "هَذَانِ",
@@ -18,21 +27,48 @@
     "translation": "Ceci, cela, cette, celle-ci | Ceux-ci, ces",
     "wordType": "Pronom démonstratif",
     "wordArabicType": "أَسْمَاءُ الإِشَارَةِ",
-    "chapter": "Pronoms"
+    "chapter": "Pronoms",
+    "verse": {
+      "arabic": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+      "verseNum": 14,
+      "chapterNum": 52,
+      "arabicChapter": "الطور",
+      "translationChapter": "Le mont At-Tour",
+      "transliterationChapter": "At-Tur",
+      "translation": "Voilà le feu que vous traitiez de mensonge"
+    }
   },
   {
     "arabicWord": "هَؤُلَاءِ",
     "translation": "Ceux-ci, celles-ci, ces",
     "wordType": "Pronom démonstratif",
     "wordArabicType": "أَسْمَاءُ الإِشَارَةِ",
-    "chapter": "Pronoms"
+    "chapter": "Pronoms",
+    "verse": {
+      "arabic": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ",
+      "verseNum": 34,
+      "chapterNum": 44,
+      "arabicChapter": "الدخان",
+      "translationChapter": "La fumée",
+      "transliterationChapter": "Ad-Dukhan",
+      "translation": "Ceux-là (les Mecquois) disent"
+    }
   },
   {
     "arabicWord": "ذَلِكَ",
     "translation": "Ceci, cela, ce, cet, celui-là",
     "wordType": "Pronom démonstratif",
     "wordArabicType": "أَسْمَاءُ الإِشَارَةِ",
-    "chapter": "Pronoms"
+    "chapter": "Pronoms",
+    "verse": {
+      "arabic": "عُتُلِّۭ بَعۡدَ ذَٰلِكَ زَنِيمٍ",
+      "verseNum": 13,
+      "chapterNum": 68,
+      "arabicChapter": "القلم",
+      "translationChapter": "La plume",
+      "transliterationChapter": "Al-Qalam",
+      "translation": "au cœur dur, et en plus de cela bâtard"
+    }
   },
   {
     "arabicWord": "تِلْكَ",
@@ -46,7 +82,16 @@
     "translation": "Ceux-là, celles-là, ces",
     "wordType": "Pronom démonstratif",
     "wordArabicType": "أَسْمَاءُ الإِشَارَةِ",
-    "chapter": "Pronoms"
+    "chapter": "Pronoms",
+    "verse": {
+      "arabic": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "verseNum": 11,
+      "chapterNum": 56,
+      "arabicChapter": "الواقعة",
+      "translationChapter": "L'inévitable",
+      "transliterationChapter": "Al-Waqi'ah",
+      "translation": "Ce sont ceux-là les plus rapprochés d'Allah"
+    }
   },
   {
     "arabicWord": "الَّذِي",
@@ -88,14 +133,32 @@
     "translation": "Certainement pas, jamais",
     "wordType": "Négation",
     "wordArabicType": "",
-    "chapter": "Forme negative, affirmative et d'exclusion"
+    "chapter": "Forme negative, affirmative et d'exclusion",
+    "verse": {
+      "arabic": "كَلَّا لَا وَزَرَ",
+      "verseNum": 11,
+      "chapterNum": 75,
+      "arabicChapter": "القيامة",
+      "translationChapter": "La résurrection",
+      "transliterationChapter": "Al-Qiyamah",
+      "translation": "Non! Point de refuge"
+    }
   },
   {
     "arabicWord": "لَنْ",
     "translation": "Ne (...) pas (futur)",
     "wordType": "Négation",
     "wordArabicType": "",
-    "chapter": "Forme negative, affirmative et d'exclusion"
+    "chapter": "Forme negative, affirmative et d'exclusion",
+    "verse": {
+      "arabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "verseNum": 14,
+      "chapterNum": 84,
+      "arabicChapter": "الإنشقاق",
+      "translationChapter": "La déchirure",
+      "transliterationChapter": "Al-Inshiqaq",
+      "translation": "et il pensait que jamais il ne ressusciterait"
+    }
   },
   {
     "arabicWord": "لَمْ",
@@ -130,7 +193,16 @@
     "translation": "Bien sûr, certainement, mais oui !",
     "wordType": "Affirmation",
     "wordArabicType": "",
-    "chapter": "Forme negative, affirmative et d'exclusion"
+    "chapter": "Forme negative, affirmative et d'exclusion",
+    "verse": {
+      "arabic": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+      "verseNum": 4,
+      "chapterNum": 75,
+      "arabicChapter": "القيامة",
+      "translationChapter": "La résurrection",
+      "transliterationChapter": "Al-Qiyamah",
+      "translation": "Mais si! Nous sommes Capable de remettre à leur place les extrémités de ses doigts"
+    }
   },
   {
     "arabicWord": "غَيْرَ",
@@ -144,14 +216,32 @@
     "translation": "Au-dessous de, moins que, sans",
     "wordType": "Exclusion",
     "wordArabicType": "",
-    "chapter": "Forme negative, affirmative et d'exclusion"
+    "chapter": "Forme negative, affirmative et d'exclusion",
+    "verse": {
+      "arabic": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "verseNum": 58,
+      "chapterNum": 53,
+      "arabicChapter": "النجم",
+      "translationChapter": "L'étoile",
+      "transliterationChapter": "An-Najm",
+      "translation": "Rien d'autre en dehors d'Allah ne peut la dévoiler"
+    }
   },
   {
     "arabicWord": "إِلَّا",
     "translation": "Sauf, excepté, à part",
     "wordType": "Exclusion",
     "wordArabicType": "",
-    "chapter": "Forme negative, affirmative et d'exclusion"
+    "chapter": "Forme negative, affirmative et d'exclusion",
+    "verse": {
+      "arabic": "إِلَّا ٱلۡمُصَلِّينَ",
+      "verseNum": 22,
+      "chapterNum": 70,
+      "arabicChapter": "المعارج",
+      "translationChapter": "Les voies d'ascension",
+      "transliterationChapter": "Al-Ma'arij",
+      "translation": "Sauf ceux qui pratiquent la Salât"
+    }
   },
   {
     "arabicWord": "نَعَمْ",
@@ -172,7 +262,16 @@
     "translation": "Leur, leurs",
     "wordType": "Pronom connecté",
     "wordArabicType": "",
-    "chapter": "Pronoms connectes"
+    "chapter": "Pronoms connectes",
+    "verse": {
+      "arabic": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+      "verseNum": 14,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "et voilà qu'ils seront sur la terre (ressuscités)"
+    }
   },
   {
     "arabicWord": "كَ",
@@ -186,7 +285,16 @@
     "translation": "Votre, vous",
     "wordType": "Pronom connecté",
     "wordArabicType": "",
-    "chapter": "Pronoms connectes"
+    "chapter": "Pronoms connectes",
+    "verse": {
+      "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرٖ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلٗا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةٖ قَلِيلَةٍ غَلَبَتۡ فِئَةٗ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+      "verseNum": 249,
+      "chapterNum": 2,
+      "arabicChapter": "البقرة",
+      "translationChapter": "La vache",
+      "transliterationChapter": "Al-Baqarah",
+      "translation": "Puis, au moment de partir avec les troupes, Tâlût dit: «Voici: Allah va vous éprouver par une rivière: quiconque y boira ne sera plus des miens; et quiconque n'y goûtera pas sera des miens; - passe pour celui qui y puisera un coup dans le creux de sa main.» Ils en burent, sauf un petit nombre d'entre eux. Puis, lorsqu'ils l'eurent traversée, lui et ceux des croyants qui l'accompagnaient, ils dirent: «Nous voilà sans force aujourd'hui contre Goliath et ses troupes!» Ceux qui étaient convaincus qu'ils auront à rencontrer Allah dirent: «Combien de fois une troupe peu nombreuse a, par la grâce d'Allah, vaincu une troupe très nombreuse! Et Allah est avec les endurants»"
+    }
   },
   {
     "arabicWord": "ي",
@@ -214,7 +322,16 @@
     "translation": "Leur, leurs (féminin)",
     "wordType": "Pronom connecté",
     "wordArabicType": "",
-    "chapter": "Pronoms connectes"
+    "chapter": "Pronoms connectes",
+    "verse": {
+      "arabic": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمۡۖ إِنۡ أُمَّهَٰتُهُمۡ إِلَّا ٱلَّـٰٓـِٔي وَلَدۡنَهُمۡۚ وَإِنَّهُمۡ لَيَقُولُونَ مُنكَرٗا مِّنَ ٱلۡقَوۡلِ وَزُورٗاۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ",
+      "verseNum": 2,
+      "chapterNum": 58,
+      "arabicChapter": "المجادلة",
+      "translationChapter": "La discussion",
+      "transliterationChapter": "Al-Mujadila",
+      "translation": "Ceux d'entre vous qui répudient leurs femmes, en déclarant qu'elles sont pour eux comme le dos de leurs mères. alors qu'elles ne sont nullement leurs mères, car ils n'ont pour mères que celles qui les ont enfantés. Ils prononcent certes une parole blâmable et mensongère. Allah cependant est Indulgent et Pardonneur"
+    }
   },
   {
     "arabicWord": "كِ",
@@ -228,49 +345,112 @@
     "translation": "Leur, leurs (duel)",
     "wordType": "Pronom connecté",
     "wordArabicType": "",
-    "chapter": "Pronoms connectes"
+    "chapter": "Pronoms connectes",
+    "verse": {
+      "arabic": "إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "verseNum": 40,
+      "chapterNum": 9,
+      "arabicChapter": "التوبة",
+      "translationChapter": "Le repentir",
+      "transliterationChapter": "At-Tawbah",
+      "translation": "Si vous ne lui portez pas secours... Allah l'a déjà secouru, lorsque ceux qui avaient mécru l'avaient banni, deuxième de deux. Quand ils étaient dans la grotte et qu'il disait à son compagnon: «Ne t'afflige pas, car Allah est avec nous.» Allah fit alors descendre sur Lui Sa sérénité «Sa sakîna» et le soutint de soldats (Anges) que vous ne voyiez pas, et Il abaissa ainsi la parole des mécréants, tandis que la parole d'Allah eut le dessus. Et Allah est Puissant et Sage"
+    }
   },
   {
     "arabicWord": "كُمَا",
     "translation": "Votre, vous (duel)",
     "wordType": "Pronom connecté",
     "wordArabicType": "",
-    "chapter": "Pronoms connectes"
+    "chapter": "Pronoms connectes",
+    "verse": {
+      "arabic": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ",
+      "verseNum": 90,
+      "chapterNum": 15,
+      "arabicChapter": "الحجر",
+      "translationChapter": "Al-Hijr",
+      "transliterationChapter": "Al-Hijr",
+      "translation": "De même que Nous avons fait descendre [le châtiment] sur ceux qui ont juré (entre eux)"
+    }
   },
   {
     "arabicWord": "هُوَ",
     "translation": "Il",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "وَمَا هُوَ بِٱلۡهَزۡلِ",
+      "verseNum": 14,
+      "chapterNum": 86,
+      "arabicChapter": "الطارق",
+      "translationChapter": "L'astre nocturne",
+      "transliterationChapter": "At-Tariq",
+      "translation": "et non point une plaisanterie frivole"
+    }
   },
   {
     "arabicWord": "هُمْ",
     "translation": "Ils",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+      "verseNum": 14,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "et voilà qu'ils seront sur la terre (ressuscités)"
+    }
   },
   {
     "arabicWord": "أَنْتَ",
     "translation": "Tu (masculin)",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
+      "verseNum": 23,
+      "chapterNum": 35,
+      "arabicChapter": "فاطر",
+      "translationChapter": "Le Créateur",
+      "transliterationChapter": "Fatir",
+      "translation": "Tu n'es qu'un avertisseur"
+    }
   },
   {
     "arabicWord": "أَنْتُمْ",
     "translation": "Vous (masculin pluriel)",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "قَالَ هَلۡ أَنتُم مُّطَّلِعُونَ",
+      "verseNum": 54,
+      "chapterNum": 37,
+      "arabicChapter": "الصافات",
+      "translationChapter": "Les rangés",
+      "transliterationChapter": "As-Saffat",
+      "translation": "Il dira: «Est-ce que vous voudriez regarder d'en haut?»"
+    }
   },
   {
     "arabicWord": "أَنَا",
     "translation": "Je",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبّٗا",
+      "verseNum": 25,
+      "chapterNum": 80,
+      "arabicChapter": "عبس",
+      "translationChapter": "Il s'est renfrogné",
+      "transliterationChapter": "'Abasa",
+      "translation": "C'est Nous qui versons l'eau abondante"
+    }
   },
   {
     "arabicWord": "نَحْنُ",
@@ -284,35 +464,80 @@
     "translation": "Elle",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ",
+      "verseNum": 13,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Il n'y aura qu'une sommation"
+    }
   },
   {
     "arabicWord": "هُنَّ",
     "translation": "Elles",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمۡۖ إِنۡ أُمَّهَٰتُهُمۡ إِلَّا ٱلَّـٰٓـِٔي وَلَدۡنَهُمۡۚ وَإِنَّهُمۡ لَيَقُولُونَ مُنكَرٗا مِّنَ ٱلۡقَوۡلِ وَزُورٗاۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ",
+      "verseNum": 2,
+      "chapterNum": 58,
+      "arabicChapter": "المجادلة",
+      "translationChapter": "La discussion",
+      "transliterationChapter": "Al-Mujadila",
+      "translation": "Ceux d'entre vous qui répudient leurs femmes, en déclarant qu'elles sont pour eux comme le dos de leurs mères. alors qu'elles ne sont nullement leurs mères, car ils n'ont pour mères que celles qui les ont enfantés. Ils prononcent certes une parole blâmable et mensongère. Allah cependant est Indulgent et Pardonneur"
+    }
   },
   {
     "arabicWord": "أَنْتِ",
     "translation": "Tu (féminin)",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
+      "verseNum": 23,
+      "chapterNum": 35,
+      "arabicChapter": "فاطر",
+      "translationChapter": "Le Créateur",
+      "transliterationChapter": "Fatir",
+      "translation": "Tu n'es qu'un avertisseur"
+    }
   },
   {
     "arabicWord": "هُمَا",
     "translation": "Ils/elles (duel)",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "verseNum": 40,
+      "chapterNum": 9,
+      "arabicChapter": "التوبة",
+      "translationChapter": "Le repentir",
+      "transliterationChapter": "At-Tawbah",
+      "translation": "Si vous ne lui portez pas secours... Allah l'a déjà secouru, lorsque ceux qui avaient mécru l'avaient banni, deuxième de deux. Quand ils étaient dans la grotte et qu'il disait à son compagnon: «Ne t'afflige pas, car Allah est avec nous.» Allah fit alors descendre sur Lui Sa sérénité «Sa sakîna» et le soutint de soldats (Anges) que vous ne voyiez pas, et Il abaissa ainsi la parole des mécréants, tandis que la parole d'Allah eut le dessus. Et Allah est Puissant et Sage"
+    }
   },
   {
     "arabicWord": "أَنْتُمَا",
     "translation": "Vous deux",
     "wordType": "Pronom déconnecté",
     "wordArabicType": "",
-    "chapter": "Pronoms deconnectes"
+    "chapter": "Pronoms deconnectes",
+    "verse": {
+      "arabic": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجۡعَلُ لَكُمَا سُلۡطَٰنٗا فَلَا يَصِلُونَ إِلَيۡكُمَا بِـَٔايَٰتِنَآۚ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلۡغَٰلِبُونَ",
+      "verseNum": 35,
+      "chapterNum": 28,
+      "arabicChapter": "القصص",
+      "translationChapter": "Le récit",
+      "transliterationChapter": "Al-Qasas",
+      "translation": "[Allah] dit: «Nous allons, par ton frère, fortifier ton bras, et vous donner des arguments irréfutables; ils ne sauront vous atteindre, grâce à Nos signes [Nos miracles]. Vous deux et ceux qui vous suivront seront les vainqueurs"
+    }
   },
   {
     "arabicWord": "فَوْقَ",
@@ -333,7 +558,16 @@
     "translation": "Mains (duel)",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Où ?"
+    "chapter": "Où ?",
+    "verse": {
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُقَدِّمُواْ بَيۡنَ يَدَيِ ٱللَّهِ وَرَسُولِهِۦۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+      "verseNum": 1,
+      "chapterNum": 49,
+      "arabicChapter": "الحجرات",
+      "translationChapter": "Les appartements",
+      "transliterationChapter": "Al-Hujurat",
+      "translation": "O vous qui avez cru! Ne devancez pas Allah et Son messager. Et craignez Allah. Allah est Audient et Omniscient"
+    }
   },
   {
     "arabicWord": "بَيْنَ",
@@ -354,7 +588,16 @@
     "translation": "Derrière, après, à la suite",
     "wordType": "Adverbe de lieu",
     "wordArabicType": "",
-    "chapter": "Où ?"
+    "chapter": "Où ?",
+    "verse": {
+      "arabic": "لَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ ثُمَّ لَأُصَلِّبَنَّكُمۡ أَجۡمَعِينَ",
+      "verseNum": 124,
+      "chapterNum": 7,
+      "arabicChapter": "الأعراف",
+      "translationChapter": "Al-A'raf",
+      "transliterationChapter": "Al-A'raf",
+      "translation": "Je vais vous couper la main et la jambe opposées, et puis, je vous crucifierai tous.»"
+    }
   },
   {
     "arabicWord": "أَمَامَ",
@@ -368,14 +611,32 @@
     "translation": "Derrière",
     "wordType": "Adverbe de lieu",
     "wordArabicType": "",
-    "chapter": "Où ?"
+    "chapter": "Où ?",
+    "verse": {
+      "arabic": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ",
+      "verseNum": 10,
+      "chapterNum": 84,
+      "arabicChapter": "الإنشقاق",
+      "translationChapter": "La déchirure",
+      "transliterationChapter": "Al-Inshiqaq",
+      "translation": "Quant à celui qui recevra son livre derrière son dos"
+    }
   },
   {
     "arabicWord": "يَمِينَ",
     "translation": "A droite/droite (adjectif)",
     "wordType": "Adverbe de lieu",
     "wordArabicType": "",
-    "chapter": "Où ?"
+    "chapter": "Où ?",
+    "verse": {
+      "arabic": "لَقَدۡ كَانَ لِسَبَإٖ فِي مَسۡكَنِهِمۡ ءَايَةٞۖ جَنَّتَانِ عَن يَمِينٖ وَشِمَالٖۖ كُلُواْ مِن رِّزۡقِ رَبِّكُمۡ وَٱشۡكُرُواْ لَهُۥۚ بَلۡدَةٞ طَيِّبَةٞ وَرَبٌّ غَفُورٞ",
+      "verseNum": 15,
+      "chapterNum": 34,
+      "arabicChapter": "سبإ",
+      "translationChapter": "Saba'",
+      "transliterationChapter": "Saba",
+      "translation": "Il y avait assurément, pour la tribu de Saba' un Signe dans leurs habitat: deux jardins, l'un à droite et l'autre à gauche. «Mangez de ce que votre Seigneur vous a attribué, et soyez-Lui reconnaissants: une bonne contrée et un Seigneur Pardonneur»"
+    }
   },
   {
     "arabicWord": "أَيْمَان",
@@ -445,21 +706,48 @@
     "translation": "Quoi ? Ce que",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "مَا ٱلۡحَآقَّةُ",
+      "verseNum": 2,
+      "chapterNum": 69,
+      "arabicChapter": "الحاقة",
+      "translationChapter": "L'inéluctable",
+      "transliterationChapter": "Al-Haqqah",
+      "translation": "Qu'est-ce que l'inévitable"
+    }
   },
   {
     "arabicWord": "مَنْ",
     "translation": "Qui ? Celui qui",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "فَأَمَّا مَن طَغَىٰ",
+      "verseNum": 37,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Quant à celui qui aura dépassé les limites"
+    }
   },
   {
     "arabicWord": "مَتَى",
     "translation": "Quand ? Lorsque",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+      "verseNum": 48,
+      "chapterNum": 10,
+      "arabicChapter": "يونس",
+      "translationChapter": "Jonas",
+      "transliterationChapter": "Yunus",
+      "translation": "Et ils disent «A quand cette promesse, si vous êtes véridiques»"
+    }
   },
   {
     "arabicWord": "أَيْنَ",
@@ -480,28 +768,64 @@
     "translation": "Combien. (...?)",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرٖ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلٗا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةٖ قَلِيلَةٍ غَلَبَتۡ فِئَةٗ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+      "verseNum": 249,
+      "chapterNum": 2,
+      "arabicChapter": "البقرة",
+      "translationChapter": "La vache",
+      "transliterationChapter": "Al-Baqarah",
+      "translation": "Puis, au moment de partir avec les troupes, Tâlût dit: «Voici: Allah va vous éprouver par une rivière: quiconque y boira ne sera plus des miens; et quiconque n'y goûtera pas sera des miens; - passe pour celui qui y puisera un coup dans le creux de sa main.» Ils en burent, sauf un petit nombre d'entre eux. Puis, lorsqu'ils l'eurent traversée, lui et ceux des croyants qui l'accompagnaient, ils dirent: «Nous voilà sans force aujourd'hui contre Goliath et ses troupes!» Ceux qui étaient convaincus qu'ils auront à rencontrer Allah dirent: «Combien de fois une troupe peu nombreuse a, par la grâce d'Allah, vaincu une troupe très nombreuse! Et Allah est avec les endurants»"
+    }
   },
   {
     "arabicWord": "أَيُّ",
     "translation": "Lequel, laquelle",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "مِنۡ أَيِّ شَيۡءٍ خَلَقَهُۥ",
+      "verseNum": 18,
+      "chapterNum": 80,
+      "arabicChapter": "عبس",
+      "translationChapter": "Il s'est renfrogné",
+      "transliterationChapter": "'Abasa",
+      "translation": "De quoi [Allah] l'a-t-Il créé"
+    }
   },
   {
     "arabicWord": "أَنَّى",
     "translation": "D'où, pourquoi ?",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَآءَهُمۡ رَسُولٞ مُّبِينٞ",
+      "verseNum": 13,
+      "chapterNum": 44,
+      "arabicChapter": "الدخان",
+      "translationChapter": "La fumée",
+      "transliterationChapter": "Ad-Dukhan",
+      "translation": "D'où leur vient cette prise de conscience alors qu'un Messager explicite leur est déjà venu"
+    }
   },
   {
     "arabicWord": "هَلْ",
     "translation": "Est-ce que ?",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "فَقُلۡ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+      "verseNum": 18,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Puis dis-lui: «Voudrais-tu te purifier"
+    }
   },
   {
     "arabicWord": "أَ",
@@ -515,14 +839,32 @@
     "translation": "Qu'est-ce que ?",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَاذَا تَعۡبُدُونَ",
+      "verseNum": 85,
+      "chapterNum": 37,
+      "arabicChapter": "الصافات",
+      "translationChapter": "Les rangés",
+      "transliterationChapter": "As-Saffat",
+      "translation": "Quand il dit à son père et à son peuple: «Qu'est-ce que vous adorez?»"
+    }
   },
   {
     "arabicWord": "لِمَ",
     "translation": "Pourquoi ?",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "قَالَ رَبِّ لِمَ حَشَرۡتَنِيٓ أَعۡمَىٰ وَقَدۡ كُنتُ بَصِيرٗا",
+      "verseNum": 125,
+      "chapterNum": 20,
+      "arabicChapter": "طه",
+      "translationChapter": "Ta-Ha",
+      "transliterationChapter": "Taha",
+      "translation": "Il dira: «O mon Seigneur, pourquoi m'as-Tu amené aveugle alors qu'auparavant je voyais?»"
+    }
   },
   {
     "arabicWord": "لِمَاذَا",
@@ -543,28 +885,64 @@
     "translation": "Qui a, détenteur de, doué de, doté de",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ",
+      "verseNum": 6,
+      "chapterNum": 53,
+      "arabicChapter": "النجم",
+      "translationChapter": "L'étoile",
+      "transliterationChapter": "An-Najm",
+      "translation": "doué de sagacité; c'est alors qu'il se montra sous sa forme réelle [angélique]"
+    }
   },
   {
     "arabicWord": "ذَا",
     "translation": "Qui a, détenteur de",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+      "verseNum": 15,
+      "chapterNum": 90,
+      "arabicChapter": "البلد",
+      "translationChapter": "La cité",
+      "transliterationChapter": "Al-Balad",
+      "translation": "un orphelin proche parent"
+    }
   },
   {
     "arabicWord": "ذِي",
     "translation": "Qui a, détenteur de",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+      "verseNum": 10,
+      "chapterNum": 89,
+      "arabicChapter": "الفجر",
+      "translationChapter": "L'aube",
+      "transliterationChapter": "Al-Fajr",
+      "translation": "ainsi qu'avec Pharaon, l'homme aux épieux"
+    }
   },
   {
     "arabicWord": "ذَاتَ",
     "translation": "Qui a, détentrice de, douée de, doté de",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+      "verseNum": 7,
+      "chapterNum": 89,
+      "arabicChapter": "الفجر",
+      "translationChapter": "L'aube",
+      "transliterationChapter": "Al-Fajr",
+      "translation": "[avec] Iram, [la cité] à la colonne remarquable"
+    }
   },
   {
     "arabicWord": "أُولُو",
@@ -578,14 +956,32 @@
     "translation": "Qui ont, détenteurs de",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
+      "verseNum": 11,
+      "chapterNum": 73,
+      "arabicChapter": "المزمل",
+      "translationChapter": "L'enveloppé",
+      "transliterationChapter": "Al-Muzzammil",
+      "translation": "Et laisse-moi avec ceux qui crient au mensonge et qui vivent dans l'aisance; et accorde-leur un court répit"
+    }
   },
   {
     "arabicWord": "أَهْلَ",
     "translation": "Gens de, habitants, peuple, proches",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "إِنَّمَا حَرَّمَ عَلَيۡكُمُ ٱلۡمَيۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۖ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا عَادٖ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+      "verseNum": 115,
+      "chapterNum": 16,
+      "arabicChapter": "النحل",
+      "translationChapter": "Les abeilles",
+      "transliterationChapter": "An-Nahl",
+      "translation": "Il vous a, en effet, interdit (la chair) de la bête morte, le sang, la chair de porc, et la bête sur laquelle un autre nom que celui d'Allah a été invoqué. Mais quiconque en mange sous contrainte, et n'est ni rebelle ni transgresseur, alors Allah est Pardonneur et Miséricordieux"
+    }
   },
   {
     "arabicWord": "آل",
@@ -599,7 +995,16 @@
     "translation": "N'est ce pas ? N'est-il pas ? (phrase interro-négative)",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
+      "verseNum": 7,
+      "chapterNum": 80,
+      "arabicChapter": "عبس",
+      "translationChapter": "Il s'est renfrogné",
+      "transliterationChapter": "'Abasa",
+      "translation": "Or, que t'importe qu'il ne se purifie pas»"
+    }
   },
   {
     "arabicWord": "نِعْمَ",
@@ -627,14 +1032,32 @@
     "translation": "Quelque chose semblable à",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "فَأَهۡلَكۡنَآ أَشَدَّ مِنۡهُم بَطۡشٗا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِينَ",
+      "verseNum": 8,
+      "chapterNum": 43,
+      "arabicChapter": "الزخرف",
+      "translationChapter": "L'ornement",
+      "transliterationChapter": "Az-Zukhruf",
+      "translation": "Nous avons fait périr de plus redoutables qu'eux! Et on a déjà cité l'exemple des anciens"
+    }
   },
   {
     "arabicWord": "مَثَلَ",
     "translation": "Nom servant à comparer ou à indiquer une ressemblance",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "فَأَهۡلَكۡنَآ أَشَدَّ مِنۡهُم بَطۡشٗا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِينَ",
+      "verseNum": 8,
+      "chapterNum": 43,
+      "arabicChapter": "الزخرف",
+      "translationChapter": "L'ornement",
+      "transliterationChapter": "Az-Zukhruf",
+      "translation": "Nous avons fait périr de plus redoutables qu'eux! Et on a déjà cité l'exemple des anciens"
+    }
   },
   {
     "arabicWord": "أَمْثَال",
@@ -648,14 +1071,32 @@
     "translation": "De qui, à qui (provenance), de celui qui (relative)",
     "wordType": "Particule composée",
     "wordArabicType": "",
-    "chapter": "Question/affirmation"
+    "chapter": "Question/affirmation",
+    "verse": {
+      "arabic": "وَيَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةٖ فَوۡجٗا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمۡ يُوزَعُونَ",
+      "verseNum": 83,
+      "chapterNum": 27,
+      "arabicChapter": "النمل",
+      "translationChapter": "Les fourmis",
+      "transliterationChapter": "An-Naml",
+      "translation": "Et le jour où Nous rassemblerons, de chaque communauté, une foule de ceux qui démentaient Nos révélations, et qu'ils seront placés en rangs"
+    }
   },
   {
     "arabicWord": "قَبْلَ",
     "translation": "Avant",
     "wordType": "Adverbe de temps",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "ٱرۡجِعۡ إِلَيۡهِمۡ فَلَنَأۡتِيَنَّهُم بِجُنُودٖ لَّا قِبَلَ لَهُم بِهَا وَلَنُخۡرِجَنَّهُم مِّنۡهَآ أَذِلَّةٗ وَهُمۡ صَٰغِرُونَ",
+      "verseNum": 37,
+      "chapterNum": 27,
+      "arabicChapter": "النمل",
+      "translationChapter": "Les fourmis",
+      "transliterationChapter": "An-Naml",
+      "translation": "Retourne vers eux. Nous viendrons avec des armées contre lesquelles ils n'auront aucune résistance, et nous les en expulserons tout humiliés et méprisés"
+    }
   },
   {
     "arabicWord": "بَعْدَ",
@@ -669,35 +1110,80 @@
     "translation": "Temps, période, au moment où, lorsque",
     "wordType": "Adverbe de temps",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "ٱلَّذِي يَرَىٰكَ حِينَ تَقُومُ",
+      "verseNum": 218,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "qui te voit quand tu te lèves"
+    }
   },
   {
     "arabicWord": "إِذْ",
     "translation": "Quand, lorsque, puis, donc (conséquence) - passé",
     "wordType": "Adverbe de temps",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا",
+      "verseNum": 12,
+      "chapterNum": 91,
+      "arabicChapter": "الشمس",
+      "translationChapter": "Le soleil",
+      "transliterationChapter": "Ash-Shams",
+      "translation": "lorsque le plus misérable d'entre eux se leva (pour tuer la chamelle)"
+    }
   },
   {
     "arabicWord": "إِذَا",
     "translation": "Quand, lorsque, puis, ensuite, lorsque - futur",
     "wordType": "Adverbe de temps",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "عَبۡدًا إِذَا صَلَّىٰٓ",
+      "verseNum": 10,
+      "chapterNum": 96,
+      "arabicChapter": "العلق",
+      "translationChapter": "L'adhérence",
+      "transliterationChapter": "Al-'Alaq",
+      "translation": "à un serviteur d'Allah [Muhammad] de célébrer la Salât"
+    }
   },
   {
     "arabicWord": "أَيَّانَ",
     "translation": "Quand ? - futur",
     "wordType": "Interrogatif",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+      "verseNum": 12,
+      "chapterNum": 51,
+      "arabicChapter": "الذاريات",
+      "translationChapter": "Qui éparpillent",
+      "transliterationChapter": "Adh-Dhariyat",
+      "translation": "Ils demandent: «A quand le jour de la Rétribution?»"
+    }
   },
   {
     "arabicWord": "ثُمَّ",
     "translation": "Puis, ensuite, donc, alors",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "ثُمَّ نَظَرَ",
+      "verseNum": 21,
+      "chapterNum": 74,
+      "arabicChapter": "المدثر",
+      "translationChapter": "Celui qui se couvre",
+      "transliterationChapter": "Al-Muddaththir",
+      "translation": "Ensuite, il a regardé"
+    }
   },
   {
     "arabicWord": "فَ",
@@ -711,21 +1197,48 @@
     "translation": "Bien plus, qui plus est/ ≠ non seulement, cependant, bien au contraire",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "بَلِ ٱلَّذِينَ كَفَرُواْ يُكَذِّبُونَ",
+      "verseNum": 22,
+      "chapterNum": 84,
+      "arabicChapter": "الإنشقاق",
+      "translationChapter": "La déchirure",
+      "transliterationChapter": "Al-Inshiqaq",
+      "translation": "Mais ceux qui ne croient pas, le traitent plutôt de mensonge"
+    }
   },
   {
     "arabicWord": "عِنْدَ",
     "translation": "Auprès de, avec, chez",
     "wordType": "Adverbe de lieu",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+      "verseNum": 14,
+      "chapterNum": 53,
+      "arabicChapter": "النجم",
+      "translationChapter": "L'étoile",
+      "transliterationChapter": "An-Najm",
+      "translation": "près de la Sidrat-ul-Muntahâ"
+    }
   },
   {
     "arabicWord": "لَدَى",
     "translation": "Auprès de",
     "wordType": "Adverbe de lieu",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "وَأَنذِرۡهُمۡ يَوۡمَ ٱلۡأٓزِفَةِ إِذِ ٱلۡقُلُوبُ لَدَى ٱلۡحَنَاجِرِ كَٰظِمِينَۚ مَا لِلظَّـٰلِمِينَ مِنۡ حَمِيمٖ وَلَا شَفِيعٖ يُطَاعُ",
+      "verseNum": 18,
+      "chapterNum": 40,
+      "arabicChapter": "غافر",
+      "translationChapter": "Le Pardonneur",
+      "transliterationChapter": "Ghafir",
+      "translation": "Et avertis-les du jour qui approche, quand les cœurs remonteront aux gorges, terrifiés (ou angoissés). Les injustes n'auront ni ami zélé, ni intercesseur écouté"
+    }
   },
   {
     "arabicWord": "لَدُنْ",
@@ -739,105 +1252,240 @@
     "translation": "Ce n'est que/ Ce n'est rien d'autre que",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "verseNum": 43,
+      "chapterNum": 44,
+      "arabicChapter": "الدخان",
+      "translationChapter": "La fumée",
+      "transliterationChapter": "Ad-Dukhan",
+      "translation": "Certes l'arbre de Zakkûm"
+    }
   },
   {
     "arabicWord": "مَا",
     "translation": "Ce n'est que/ Ce n'est rien d'autre que",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "مَا ٱلۡحَآقَّةُ",
+      "verseNum": 2,
+      "chapterNum": 69,
+      "arabicChapter": "الحاقة",
+      "translationChapter": "L'inéluctable",
+      "transliterationChapter": "Al-Haqqah",
+      "translation": "Qu'est-ce que l'inévitable"
+    }
   },
   {
     "arabicWord": "أَلَّا",
     "translation": "Ne ... pas, pour ne pas …",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Quand ?"
+    "chapter": "Quand ?",
+    "verse": {
+      "arabic": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
+      "verseNum": 7,
+      "chapterNum": 80,
+      "arabicChapter": "عبس",
+      "translationChapter": "Il s'est renfrogné",
+      "transliterationChapter": "'Abasa",
+      "translation": "Or, que t'importe qu'il ne se purifie pas»"
+    }
   },
   {
     "arabicWord": "بِمَا",
     "translation": "Par quoi, avec quoi",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ",
+      "verseNum": 38,
+      "chapterNum": 69,
+      "arabicChapter": "الحاقة",
+      "translationChapter": "L'inéluctable",
+      "transliterationChapter": "Al-Haqqah",
+      "translation": "Mais non... Je jure par ce que vous voyez"
+    }
   },
   {
     "arabicWord": "عَمَّا",
     "translation": "A propos de, au sujet de",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "عَمَّا كَانُواْ يَعۡمَلُونَ",
+      "verseNum": 93,
+      "chapterNum": 15,
+      "arabicChapter": "الحجر",
+      "translationChapter": "Al-Hijr",
+      "transliterationChapter": "Al-Hijr",
+      "translation": "sur ce qu'ils œuvraient"
+    }
   },
   {
     "arabicWord": "فِيمَا",
     "translation": "Dans ce que",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "ٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+      "verseNum": 69,
+      "chapterNum": 22,
+      "arabicChapter": "الحج",
+      "translationChapter": "Le pèlerinage",
+      "transliterationChapter": "Al-Hajj",
+      "translation": "Allah jugera entre vous, au Jour de la Résurrection, ce en quoi vous divergez»"
+    }
   },
   {
     "arabicWord": "كَمَا",
     "translation": "Comme, tel que",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ",
+      "verseNum": 90,
+      "chapterNum": 15,
+      "arabicChapter": "الحجر",
+      "translationChapter": "Al-Hijr",
+      "transliterationChapter": "Al-Hijr",
+      "translation": "De même que Nous avons fait descendre [le châtiment] sur ceux qui ont juré (entre eux)"
+    }
   },
   {
     "arabicWord": "لِمَا",
     "translation": "Pour qqch/qqn, en vue de, en raison de",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "فَعَّالٞ لِّمَا يُرِيدُ",
+      "verseNum": 16,
+      "chapterNum": 85,
+      "arabicChapter": "البروج",
+      "translationChapter": "Les constellations",
+      "transliterationChapter": "Al-Buruj",
+      "translation": "Il réalise parfaitement tout ce qu'Il veut"
+    }
   },
   {
     "arabicWord": "مِمَّا",
     "translation": "De ce que, chose qui, ce qui, (provenance)",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+      "verseNum": 42,
+      "chapterNum": 77,
+      "arabicChapter": "المرسلات",
+      "translationChapter": "Les envoyés",
+      "transliterationChapter": "Al-Mursalat",
+      "translation": "De même que des fruits selon leurs désirs"
+    }
   },
   {
     "arabicWord": "أَمَّا",
     "translation": "Quant à, en ce qui concerne, pour ce qui est de",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ",
+      "verseNum": 5,
+      "chapterNum": 80,
+      "arabicChapter": "عبس",
+      "translationChapter": "Il s'est renfrogné",
+      "transliterationChapter": "'Abasa",
+      "translation": "Quant à celui qui se complaît dans sa suffisance (pour sa richesse)"
+    }
   },
   {
     "arabicWord": "إِمَّا",
     "translation": "Soit … soit, soit … ou bien",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ",
+      "verseNum": 93,
+      "chapterNum": 23,
+      "arabicChapter": "المؤمنون",
+      "translationChapter": "Les croyants",
+      "transliterationChapter": "Al-Mu'minun",
+      "translation": "Dis: «Seigneur, si jamais Tu me montres ce qui leur est promis"
+    }
   },
   {
     "arabicWord": "أَنَّمَا",
     "translation": "Que",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "أَيَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٖ وَبَنِينَ",
+      "verseNum": 55,
+      "chapterNum": 23,
+      "arabicChapter": "المؤمنون",
+      "translationChapter": "Les croyants",
+      "transliterationChapter": "Al-Mu'minun",
+      "translation": "Pensent-ils que ce que Nous leur accordons, en biens et en enfants"
+    }
   },
   {
     "arabicWord": "إِنَّمَا",
     "translation": "Certainement",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+      "verseNum": 5,
+      "chapterNum": 51,
+      "arabicChapter": "الذاريات",
+      "translationChapter": "Qui éparpillent",
+      "transliterationChapter": "Adh-Dhariyat",
+      "translation": "Ce qui vous est promis est certainement vrai"
+    }
   },
   {
     "arabicWord": "كَأَنَّمَا",
     "translation": "Comme si, tout comme si",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "يُجَٰدِلُونَكَ فِي ٱلۡحَقِّ بَعۡدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ يَنظُرُونَ",
+      "verseNum": 6,
+      "chapterNum": 8,
+      "arabicChapter": "الأنفال",
+      "translationChapter": "Le butin",
+      "transliterationChapter": "Al-Anfal",
+      "translation": "Ils discutent avec toi au sujet de la vérité après qu'elle fut clairement apparue; comme si on les poussait vers la mort et qu'ils (la) voyaient"
+    }
   },
   {
     "arabicWord": "كُلَّمَا",
     "translation": "A chaque fois",
     "wordType": "Préposition + ما",
     "wordArabicType": "",
-    "chapter": "Preposition + ما"
+    "chapter": "Preposition + ما",
+    "verse": {
+      "arabic": "كُلَّمَآ أَرَادُوٓاْ أَن يَخۡرُجُواْ مِنۡهَا مِنۡ غَمٍّ أُعِيدُواْ فِيهَا وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
+      "verseNum": 22,
+      "chapterNum": 22,
+      "arabicChapter": "الحج",
+      "translationChapter": "Le pèlerinage",
+      "transliterationChapter": "Al-Hajj",
+      "translation": "Toutes les fois qu'ils voudront en sortir (pour échapper) à la détresse, on les y remettra et (on leur dira): «Goûtez au châtiment de la Fournaise"
+    }
   },
   {
     "arabicWord": "بِ",
@@ -851,14 +1499,32 @@
     "translation": "A propos de",
     "wordType": "Préposition",
     "wordArabicType": "",
-    "chapter": "Prepositions/particules"
+    "chapter": "Prepositions/particules",
+    "verse": {
+      "arabic": "عَنِ ٱلۡمُجۡرِمِينَ",
+      "verseNum": 41,
+      "chapterNum": 74,
+      "arabicChapter": "المدثر",
+      "translationChapter": "Celui qui se couvre",
+      "transliterationChapter": "Al-Muddaththir",
+      "translation": "au sujet des criminels"
+    }
   },
   {
     "arabicWord": "فِي",
     "translation": "Dans",
     "wordType": "Préposition",
     "wordArabicType": "",
-    "chapter": "Prepositions/particules"
+    "chapter": "Prepositions/particules",
+    "verse": {
+      "arabic": "فِي رَقّٖ مَّنشُورٖ",
+      "verseNum": 3,
+      "chapterNum": 52,
+      "arabicChapter": "الطور",
+      "translationChapter": "Le mont At-Tour",
+      "transliterationChapter": "At-Tur",
+      "translation": "sur un parchemin déployé"
+    }
   },
   {
     "arabicWord": "كَ",
@@ -886,14 +1552,32 @@
     "translation": "De (origine), en provenance de, à partir",
     "wordType": "Préposition",
     "wordArabicType": "",
-    "chapter": "Prepositions/particules"
+    "chapter": "Prepositions/particules",
+    "verse": {
+      "arabic": "فَأَمَّا مَن طَغَىٰ",
+      "verseNum": 37,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Quant à celui qui aura dépassé les limites"
+    }
   },
   {
     "arabicWord": "إِلَى",
     "translation": "Vers, en direction de",
     "wordType": "Préposition",
     "wordArabicType": "",
-    "chapter": "Prepositions/particules"
+    "chapter": "Prepositions/particules",
+    "verse": {
+      "arabic": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+      "verseNum": 22,
+      "chapterNum": 77,
+      "arabicChapter": "المرسلات",
+      "translationChapter": "Les envoyés",
+      "transliterationChapter": "Al-Mursalat",
+      "translation": "pour une durée connue"
+    }
   },
   {
     "arabicWord": "تَاللَّهِ",
@@ -914,21 +1598,48 @@
     "translation": "Jusqu'à ce que",
     "wordType": "Préposition",
     "wordArabicType": "",
-    "chapter": "Prepositions/particules"
+    "chapter": "Prepositions/particules",
+    "verse": {
+      "arabic": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
+      "verseNum": 47,
+      "chapterNum": 74,
+      "arabicChapter": "المدثر",
+      "translationChapter": "Celui qui se couvre",
+      "transliterationChapter": "Al-Muddaththir",
+      "translation": "jusqu'à ce que nous vînt la vérité évidente [la mort]»"
+    }
   },
   {
     "arabicWord": "عَلَى",
     "translation": "Sur, dessus",
     "wordType": "Préposition",
     "wordArabicType": "",
-    "chapter": "Prepositions/particules"
+    "chapter": "Prepositions/particules",
+    "verse": {
+      "arabic": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "verseNum": 15,
+      "chapterNum": 56,
+      "arabicChapter": "الواقعة",
+      "translationChapter": "L'inévitable",
+      "transliterationChapter": "Al-Waqi'ah",
+      "translation": "sur des lits ornés [d'or et de pierreries]"
+    }
   },
   {
     "arabicWord": "مَعَ",
     "translation": "Avec",
     "wordType": "Préposition",
     "wordArabicType": "",
-    "chapter": "Prepositions/particules"
+    "chapter": "Prepositions/particules",
+    "verse": {
+      "arabic": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+      "verseNum": 6,
+      "chapterNum": 94,
+      "arabicChapter": "الشرح",
+      "translationChapter": "L'ouverture",
+      "transliterationChapter": "Ash-Sharh",
+      "translation": "A côté de la difficulté est, certes, une facilité"
+    }
   },
   {
     "arabicWord": "وَ",
@@ -942,7 +1653,16 @@
     "translation": "Exprime pour une action: sa réalisation/proximité temporelle (+verbe passé)",
     "wordType": "Particule verbale",
     "wordArabicType": "",
-    "chapter": "Prefixes verbaux et particules"
+    "chapter": "Prefixes verbaux et particules",
+    "verse": {
+      "arabic": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٖ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّـٰدِقِينَ",
+      "verseNum": 27,
+      "chapterNum": 12,
+      "arabicChapter": "يوسف",
+      "translationChapter": "Joseph",
+      "transliterationChapter": "Yusuf",
+      "translation": "Mais si sa tunique est déchirée par derrière, alors c'est elle qui mentit, tandis qu'il est du nombre des véridiques»"
+    }
   },
   {
     "arabicWord": "سَ",
@@ -970,7 +1690,16 @@
     "translation": "En effet, certes",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes verbaux et particules"
+    "chapter": "Prefixes verbaux et particules",
+    "verse": {
+      "arabic": "لَقَدِ ٱبۡتَغَوُاْ ٱلۡفِتۡنَةَ مِن قَبۡلُ وَقَلَّبُواْ لَكَ ٱلۡأُمُورَ حَتَّىٰ جَآءَ ٱلۡحَقُّ وَظَهَرَ أَمۡرُ ٱللَّهِ وَهُمۡ كَٰرِهُونَ",
+      "verseNum": 48,
+      "chapterNum": 9,
+      "arabicChapter": "التوبة",
+      "translationChapter": "Le repentir",
+      "transliterationChapter": "At-Tawbah",
+      "translation": "Ils ont, auparavant, cherché à semer la discorde (dans vos rangs) et à embrouiller tes affaires jusqu'à ce que vînt la vérité et triomphât le commandement d'Allah, en dépit de leur hostilité"
+    }
   },
   {
     "arabicWord": "لَ",
@@ -1005,14 +1734,32 @@
     "translation": "Ou/ou bien",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes verbaux et particules"
+    "chapter": "Prefixes verbaux et particules",
+    "verse": {
+      "arabic": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا",
+      "verseNum": 27,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Etes-vous plus durs à créer? ou le ciel, qu'Il a pourtant construit"
+    }
   },
   {
     "arabicWord": "أَوْ",
     "translation": "Ou/ou bien",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes verbaux et particules"
+    "chapter": "Prefixes verbaux et particules",
+    "verse": {
+      "arabic": "نِّصۡفَهُۥٓ أَوِ ٱنقُصۡ مِنۡهُ قَلِيلًا",
+      "verseNum": 3,
+      "chapterNum": 73,
+      "arabicChapter": "المزمل",
+      "translationChapter": "L'enveloppé",
+      "transliterationChapter": "Al-Muzzammil",
+      "translation": "Sa moitié, ou un peu moins"
+    }
   },
   {
     "arabicWord": "بَعْضَ",
@@ -1026,63 +1773,144 @@
     "translation": "Tout, la totalité",
     "wordType": "Nom",
     "wordArabicType": "",
-    "chapter": "Prefixes verbaux et particules"
+    "chapter": "Prefixes verbaux et particules",
+    "verse": {
+      "arabic": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+      "verseNum": 26,
+      "chapterNum": 55,
+      "arabicChapter": "الرحمن",
+      "translationChapter": "Le Tout Miséricordieux",
+      "transliterationChapter": "Ar-Rahman",
+      "translation": "Tout ce qui est sur elle [la terre] doit disparaître"
+    }
   },
   {
     "arabicWord": "إِنَّ",
     "translation": "Certes, vraiment",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "verseNum": 43,
+      "chapterNum": 44,
+      "arabicChapter": "الدخان",
+      "translationChapter": "La fumée",
+      "transliterationChapter": "Ad-Dukhan",
+      "translation": "Certes l'arbre de Zakkûm"
+    }
   },
   {
     "arabicWord": "أَنَّ",
     "translation": "Que (certitude)",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+      "verseNum": 2,
+      "chapterNum": 80,
+      "arabicChapter": "عبس",
+      "translationChapter": "Il s'est renfrogné",
+      "transliterationChapter": "'Abasa",
+      "translation": "parce que l'aveugle est venu à lui"
+    }
   },
   {
     "arabicWord": "كَأَنَّ",
     "translation": "Comme si",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَآۗ أَلَا بُعۡدٗا لِّمَدۡيَنَ كَمَا بَعِدَتۡ ثَمُودُ",
+      "verseNum": 95,
+      "chapterNum": 11,
+      "arabicChapter": "هود",
+      "translationChapter": "Houd",
+      "transliterationChapter": "Hud",
+      "translation": "comme s'ils n'y avaient jamais prospéré. Que les Madyan s'éloignent comme les Thamûd se sont éloignés"
+    }
   },
   {
     "arabicWord": "لَكِنَّ",
     "translation": "Mais, cependant",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "أَسۡمِعۡ بِهِمۡ وَأَبۡصِرۡ يَوۡمَ يَأۡتُونَنَا لَٰكِنِ ٱلظَّـٰلِمُونَ ٱلۡيَوۡمَ فِي ضَلَٰلٖ مُّبِينٖ",
+      "verseNum": 38,
+      "chapterNum": 19,
+      "arabicChapter": "مريم",
+      "translationChapter": "Marie",
+      "transliterationChapter": "Maryam",
+      "translation": "Comme ils entendront et verront bien le jour où ils viendront à Nous! Mais aujourd'hui, les injustes sont dans un égarement évident"
+    }
   },
   {
     "arabicWord": "لَكِنْ",
     "translation": "Mais, cependant",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "أَسۡمِعۡ بِهِمۡ وَأَبۡصِرۡ يَوۡمَ يَأۡتُونَنَا لَٰكِنِ ٱلظَّـٰلِمُونَ ٱلۡيَوۡمَ فِي ضَلَٰلٖ مُّبِينٖ",
+      "verseNum": 38,
+      "chapterNum": 19,
+      "arabicChapter": "مريم",
+      "translationChapter": "Marie",
+      "transliterationChapter": "Maryam",
+      "translation": "Comme ils entendront et verront bien le jour où ils viendront à Nous! Mais aujourd'hui, les injustes sont dans un égarement évident"
+    }
   },
   {
     "arabicWord": "لَعَلَّ",
     "translation": "Peut-être, il se peut",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "ٱللَّهُ ٱلَّذِيٓ أَنزَلَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ وَٱلۡمِيزَانَۗ وَمَا يُدۡرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٞ",
+      "verseNum": 17,
+      "chapterNum": 42,
+      "arabicChapter": "الشورى",
+      "translationChapter": "La concertation",
+      "transliterationChapter": "Ash-Shuraa",
+      "translation": "C'est Allah qui a fait descendre le Livre en toute vérité, ainsi que la balance. Et qu'en sais-tu? Peut-être que l'Heure est proche"
+    }
   },
   {
     "arabicWord": "أَنْ",
     "translation": "Que",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+      "verseNum": 2,
+      "chapterNum": 80,
+      "arabicChapter": "عبس",
+      "translationChapter": "Il s'est renfrogné",
+      "transliterationChapter": "'Abasa",
+      "translation": "parce que l'aveugle est venu à lui"
+    }
   },
   {
     "arabicWord": "إِنْ",
     "translation": "Si (conditionnel)",
     "wordType": "Particule conditionnelle",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "verseNum": 43,
+      "chapterNum": 44,
+      "arabicChapter": "الدخان",
+      "translationChapter": "La fumée",
+      "transliterationChapter": "Ad-Dukhan",
+      "translation": "Certes l'arbre de Zakkûm"
+    }
   },
   {
     "arabicWord": "إِيَّا",
@@ -1096,21 +1924,48 @@
     "translation": "Peut-être, il y a espoir, il est possible, il se peut que [...]",
     "wordType": "Verbe d'espoir",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "قُلۡ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعۡضُ ٱلَّذِي تَسۡتَعۡجِلُونَ",
+      "verseNum": 72,
+      "chapterNum": 27,
+      "arabicChapter": "النمل",
+      "translationChapter": "Les fourmis",
+      "transliterationChapter": "An-Naml",
+      "translation": "Dis: «Il se peut qu'une partie de ce que vous cherchez à hâter soit déjà sur vos talons»"
+    }
   },
   {
     "arabicWord": "لَمَّا",
     "translation": "Lorsque, quand",
     "wordType": "Particule",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "فَعَّالٞ لِّمَا يُرِيدُ",
+      "verseNum": 16,
+      "chapterNum": 85,
+      "arabicChapter": "البروج",
+      "translationChapter": "Les constellations",
+      "transliterationChapter": "Al-Buruj",
+      "translation": "Il réalise parfaitement tout ce qu'Il veut"
+    }
   },
   {
     "arabicWord": "لَوْ",
     "translation": "Si (conditionnel)",
     "wordType": "Particule conditionnelle",
     "wordArabicType": "",
-    "chapter": "Prefixes et particules"
+    "chapter": "Prefixes et particules",
+    "verse": {
+      "arabic": "وَتَحۡسَبُهُمۡ أَيۡقَاظٗا وَهُمۡ رُقُودٞۚ وَنُقَلِّبُهُمۡ ذَاتَ ٱلۡيَمِينِ وَذَاتَ ٱلشِّمَالِۖ وَكَلۡبُهُم بَٰسِطٞ ذِرَاعَيۡهِ بِٱلۡوَصِيدِۚ لَوِ ٱطَّلَعۡتَ عَلَيۡهِمۡ لَوَلَّيۡتَ مِنۡهُمۡ فِرَارٗا وَلَمُلِئۡتَ مِنۡهُمۡ رُعۡبٗا",
+      "verseNum": 18,
+      "chapterNum": 18,
+      "arabicChapter": "الكهف",
+      "translationChapter": "La caverne",
+      "transliterationChapter": "Al-Kahf",
+      "translation": "Et tu les aurais cru éveillés, alors qu'ils dorment. Et Nous les tournons sur le côté droit et sur le côté gauche, tandis que leur chien est à l'entrée, pattes étendues. Si tu les avais aperçus, certes tu leur aurais tourné le dos en fuyant; et tu aurais été assurément rempli d'effroi devant eux"
+    }
   },
   {
     "arabicWord": "يَا",
@@ -1145,7 +2000,16 @@
     "translation": "Seigneur, maître, éducateur",
     "wordType": "Nom divin",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Quelques noms d'allah"
+    "chapter": "Quelques noms d'allah",
+    "verse": {
+      "arabic": "رَبِّ مُوسَىٰ وَهَٰرُونَ",
+      "verseNum": 122,
+      "chapterNum": 7,
+      "arabicChapter": "الأعراف",
+      "translationChapter": "Al-A'raf",
+      "transliterationChapter": "Al-A'raf",
+      "translation": "au Seigneur de Moïse et d'Aaron.»"
+    }
   },
   {
     "arabicWord": "الرَّحْمٰنُ",
@@ -1201,7 +2065,16 @@
     "translation": "Avertisseur(s) ou avertissement(s)",
     "wordType": "Nom",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Quelques noms d'allah"
+    "chapter": "Quelques noms d'allah",
+    "verse": {
+      "arabic": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
+      "verseNum": 23,
+      "chapterNum": 35,
+      "arabicChapter": "فاطر",
+      "translationChapter": "Le Créateur",
+      "transliterationChapter": "Fatir",
+      "translation": "Tu n'es qu'un avertisseur"
+    }
   },
   {
     "arabicWord": "نُذُرٌ",
@@ -1222,7 +2095,16 @@
     "translation": "Secoureurs, protecteurs (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Quelques noms d'allah"
+    "chapter": "Quelques noms d'allah",
+    "verse": {
+      "arabic": "رَبَّنَآ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَيۡتَهُۥۖ وَمَا لِلظَّـٰلِمِينَ مِنۡ أَنصَارٖ",
+      "verseNum": 192,
+      "chapterNum": 3,
+      "arabicChapter": "آل عمران",
+      "translationChapter": "La famille de 'imran",
+      "transliterationChapter": "Ali 'Imran",
+      "translation": "Seigneur! Quiconque Tu fais entrer dans le Feu, Tu le couvres vraiment d'ignominie. Et pour les injustes, il n'y a pas de secoureurs"
+    }
   },
   {
     "arabicWord": "الْوَكِيلُ",
@@ -1236,7 +2118,16 @@
     "translation": "Premier (première)",
     "wordType": "Nom/Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (1/2)"
+    "chapter": "Autres noms d'allah et adjectifs (1/2)",
+    "verse": {
+      "arabic": "وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِينَ",
+      "verseNum": 12,
+      "chapterNum": 39,
+      "arabicChapter": "الزمر",
+      "translationChapter": "Les groupes",
+      "transliterationChapter": "Az-Zumar",
+      "translation": "et il m'a été ordonné d'être le premier des Musulmans"
+    }
   },
   {
     "arabicWord": "أُولَى",
@@ -1285,7 +2176,16 @@
     "translation": "Digne de confiance, loyal, fiable",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (1/2)"
+    "chapter": "Autres noms d'allah et adjectifs (1/2)",
+    "verse": {
+      "arabic": "مُّطَاعٖ ثَمَّ أَمِينٖ",
+      "verseNum": 21,
+      "chapterNum": 81,
+      "arabicChapter": "التكوير",
+      "translationChapter": "L'obscurcissement",
+      "transliterationChapter": "At-Takwir",
+      "translation": "obéi, là-haut, et digne de confiance"
+    }
   },
   {
     "arabicWord": "الْبَصِيرُ",
@@ -1299,7 +2199,16 @@
     "translation": "Loin",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (1/2)"
+    "chapter": "Autres noms d'allah et adjectifs (1/2)",
+    "verse": {
+      "arabic": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ",
+      "verseNum": 31,
+      "chapterNum": 50,
+      "arabicChapter": "ق",
+      "translationChapter": "Qaf",
+      "transliterationChapter": "Qaf",
+      "translation": "Le Paradis sera rapproché à proximité des pieux"
+    }
   },
   {
     "arabicWord": "التَّوَّابُ",
@@ -1327,7 +2236,16 @@
     "translation": "Gardiens (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (1/2)"
+    "chapter": "Autres noms d'allah et adjectifs (1/2)",
+    "verse": {
+      "arabic": "وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۖ وَيُرۡسِلُ عَلَيۡكُمۡ حَفَظَةً حَتَّىٰٓ إِذَا جَآءَ أَحَدَكُمُ ٱلۡمَوۡتُ تَوَفَّتۡهُ رُسُلُنَا وَهُمۡ لَا يُفَرِّطُونَ",
+      "verseNum": 61,
+      "chapterNum": 6,
+      "arabicChapter": "الأنعام",
+      "translationChapter": "Les bestiaux",
+      "transliterationChapter": "Al-An'am",
+      "translation": "Et Il est le Dominateur Suprême sur Ses serviteurs. Et Il envoie sur vous des gardiens. Et lorsque la mort atteint l'un de vous, Nos messagers (les Anges) enlèvent son âme sans aucune négligence"
+    }
   },
   {
     "arabicWord": "الْحَكَمُ",
@@ -1355,14 +2273,32 @@
     "translation": "Bouillant, chaud, brûlant",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (1/2)"
+    "chapter": "Autres noms d'allah et adjectifs (1/2)",
+    "verse": {
+      "arabic": "وَلَا صَدِيقٍ حَمِيمٖ",
+      "verseNum": 101,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "ni d'ami chaleureux"
+    }
   },
   {
     "arabicWord": "شَدِيدَ",
     "translation": "Sévère, dur, fort, intense",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+      "verseNum": 5,
+      "chapterNum": 53,
+      "arabicChapter": "النجم",
+      "translationChapter": "L'étoile",
+      "transliterationChapter": "An-Najm",
+      "translation": "Que lui a enseigné [l'Ange Gabriel] à la force prodigieuse"
+    }
   },
   {
     "arabicWord": "الْعَلِيُّ",
@@ -1383,49 +2319,112 @@
     "translation": "Près, proche",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ",
+      "verseNum": 41,
+      "chapterNum": 50,
+      "arabicChapter": "ق",
+      "translationChapter": "Qaf",
+      "transliterationChapter": "Qaf",
+      "translation": "Et sois à l'écoute, le jour où le Crieur criera d'un endroit proche"
+    }
   },
   {
     "arabicWord": "كَبِيرٌ",
     "translation": "Grand",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ",
+      "verseNum": 12,
+      "chapterNum": 67,
+      "arabicChapter": "الملك",
+      "translationChapter": "La royauté",
+      "transliterationChapter": "Al-Mulk",
+      "translation": "Ceux qui redoutent leur Seigneur bien qu'ils ne L'aient jamais vu auront un pardon et une grande récompense"
+    }
   },
   {
     "arabicWord": "كَبِيرَةٌ",
     "translation": "Grande (féminin)",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "وَلَا يُنفِقُونَ نَفَقَةٗ صَغِيرَةٗ وَلَا كَبِيرَةٗ وَلَا يَقۡطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمۡ لِيَجۡزِيَهُمُ ٱللَّهُ أَحۡسَنَ مَا كَانُواْ يَعۡمَلُونَ",
+      "verseNum": 121,
+      "chapterNum": 9,
+      "arabicChapter": "التوبة",
+      "translationChapter": "Le repentir",
+      "transliterationChapter": "At-Tawbah",
+      "translation": "Ils ne supporteront aucune dépense, minime ou importante, ne traverseront aucune vallée, sans que (cela) ne soit inscrit à leur actif, en sorte qu'Allah les récompense pour le meilleur de ce qu'ils faisaient"
+    }
   },
   {
     "arabicWord": "كَبَائِرٌ",
     "translation": "Grandes (pluriel)",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "إِن تَجۡتَنِبُواْ كَبَآئِرَ مَا تُنۡهَوۡنَ عَنۡهُ نُكَفِّرۡ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَنُدۡخِلۡكُم مُّدۡخَلٗا كَرِيمٗا",
+      "verseNum": 31,
+      "chapterNum": 4,
+      "arabicChapter": "النساء",
+      "translationChapter": "Les femmes",
+      "transliterationChapter": "An-Nisa",
+      "translation": "Si vous évitez les grands péchés qui vous sont interdits, Nous effacerons vos méfaits de votre compte, et Nous vous ferons entrer dans un endroit honorable (le Paradis)"
+    }
   },
   {
     "arabicWord": "كَثِيرٌ",
     "translation": "Beaucoup",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "أَوۡ يُوبِقۡهُنَّ بِمَا كَسَبُواْ وَيَعۡفُ عَن كَثِيرٖ",
+      "verseNum": 34,
+      "chapterNum": 42,
+      "arabicChapter": "الشورى",
+      "translationChapter": "La concertation",
+      "transliterationChapter": "Ash-Shuraa",
+      "translation": "Ou bien, Il les détruit en punition de ce qu'ils ont acquis [comme péchés]. Cependant, Il pardonne beaucoup"
+    }
   },
   {
     "arabicWord": "كَثِيرَةٌ",
     "translation": "Beaucoup (féminin)",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+      "verseNum": 32,
+      "chapterNum": 56,
+      "arabicChapter": "الواقعة",
+      "translationChapter": "L'inévitable",
+      "transliterationChapter": "Al-Waqi'ah",
+      "translation": "et des fruits abondants"
+    }
   },
   {
     "arabicWord": "سَرِيعَ",
     "translation": "Rapide, vite",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "أُوْلَـٰٓئِكَ لَهُمۡ نَصِيبٞ مِّمَّا كَسَبُواْۚ وَٱللَّهُ سَرِيعُ ٱلۡحِسَابِ",
+      "verseNum": 202,
+      "chapterNum": 2,
+      "arabicChapter": "البقرة",
+      "translationChapter": "La vache",
+      "transliterationChapter": "Al-Baqarah",
+      "translation": "Ceux-là auront une part de ce qu'ils auront acquis. Et Allah est prompt à faire rendre compte"
+    }
   },
   {
     "arabicWord": "الرَّحِيمُ",
@@ -1439,7 +2438,16 @@
     "translation": "Miséricordieux (pluriel)",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "مُّحَمَّدٞ رَّسُولُ ٱللَّهِۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلۡكُفَّارِ رُحَمَآءُ بَيۡنَهُمۡۖ تَرَىٰهُمۡ رُكَّعٗا سُجَّدٗا يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ وَرِضۡوَٰنٗاۖ سِيمَاهُمۡ فِي وُجُوهِهِم مِّنۡ أَثَرِ ٱلسُّجُودِۚ ذَٰلِكَ مَثَلُهُمۡ فِي ٱلتَّوۡرَىٰةِۚ وَمَثَلُهُمۡ فِي ٱلۡإِنجِيلِ كَزَرۡعٍ أَخۡرَجَ شَطۡـَٔهُۥ فَـَٔازَرَهُۥ فَٱسۡتَغۡلَظَ فَٱسۡتَوَىٰ عَلَىٰ سُوقِهِۦ يُعۡجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلۡكُفَّارَۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ مِنۡهُم مَّغۡفِرَةٗ وَأَجۡرًا عَظِيمَۢا",
+      "verseNum": 29,
+      "chapterNum": 48,
+      "arabicChapter": "الفتح",
+      "translationChapter": "La victoire éclatante",
+      "transliterationChapter": "Al-Fath",
+      "translation": "Muhammad est le Messager d'Allah. Et ceux qui sont avec lui sont durs envers les mécréants, miséricordieux entre eux. Tu les vois inclinés, prosternés, recherchant d'Allah grâce et agrément. Leurs visages sont marqués par la trace laissée par la prosternation. Telle est leur image dans la Thora. Et l'image que l'on donne d'eux dans l'Evangile est celle d'une semence qui sort sa pousse, puis se raffermit, s'épaissit, et ensuite se dresse sur sa tige, à l'émerveillement des semeurs. [Allah] par eux [les croyants] remplit de dépit les mécréants. Allah promet à ceux d'entre eux qui croient et font de bonnes œuvres, un pardon et une énorme récompense"
+    }
   },
   {
     "arabicWord": "الْعَظِيمُ",
@@ -1453,14 +2461,32 @@
     "translation": "Peu",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "مَتَٰعٞ قَلِيلٞ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+      "verseNum": 117,
+      "chapterNum": 16,
+      "arabicChapter": "النحل",
+      "translationChapter": "Les abeilles",
+      "transliterationChapter": "An-Nahl",
+      "translation": "Ce sera pour eux une piètre jouissance, mais un douloureux châtiment les attend"
+    }
   },
   {
     "arabicWord": "قَلِيلَةٌ",
     "translation": "Peu (féminin)",
     "wordType": "Adjectif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Autres noms d'allah et adjectifs (2/2)"
+    "chapter": "Autres noms d'allah et adjectifs (2/2)",
+    "verse": {
+      "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرٖ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلٗا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةٖ قَلِيلَةٍ غَلَبَتۡ فِئَةٗ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+      "verseNum": 249,
+      "chapterNum": 2,
+      "arabicChapter": "البقرة",
+      "translationChapter": "La vache",
+      "transliterationChapter": "Al-Baqarah",
+      "translation": "Puis, au moment de partir avec les troupes, Tâlût dit: «Voici: Allah va vous éprouver par une rivière: quiconque y boira ne sera plus des miens; et quiconque n'y goûtera pas sera des miens; - passe pour celui qui y puisera un coup dans le creux de sa main.» Ils en burent, sauf un petit nombre d'entre eux. Puis, lorsqu'ils l'eurent traversée, lui et ceux des croyants qui l'accompagnaient, ils dirent: «Nous voilà sans force aujourd'hui contre Goliath et ses troupes!» Ceux qui étaient convaincus qu'ils auront à rencontrer Allah dirent: «Combien de fois une troupe peu nombreuse a, par la grâce d'Allah, vaincu une troupe très nombreuse! Et Allah est avec les endurants»"
+    }
   },
   {
     "arabicWord": "الْكَرِيمُ",
@@ -1488,7 +2514,16 @@
     "translation": "Plus sévère, plus dur, plus intense",
     "wordType": "Superlatif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Superlatifs"
+    "chapter": "Superlatifs",
+    "verse": {
+      "arabic": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا",
+      "verseNum": 27,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Etes-vous plus durs à créer? ou le ciel, qu'Il a pourtant construit"
+    }
   },
   {
     "arabicWord": "أَعْلَى",
@@ -1516,7 +2551,16 @@
     "translation": "Plus grand",
     "wordType": "Superlatif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Superlatifs"
+    "chapter": "Superlatifs",
+    "verse": {
+      "arabic": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
+      "verseNum": 123,
+      "chapterNum": 6,
+      "arabicChapter": "الأنعام",
+      "translationChapter": "Les bestiaux",
+      "transliterationChapter": "Al-An'am",
+      "translation": "Ainsi, Nous avons placé dans chaque cité de grands criminels qui y ourdissent des complots. Mais ils ne complotent que contre eux-mêmes et ils n'en sont pas conscients"
+    }
   },
   {
     "arabicWord": "أَكْثَرَ",
@@ -1537,7 +2581,16 @@
     "translation": "Plus en droit, plus digne",
     "wordType": "Superlatif",
     "wordArabicType": "أَسْمَاءُ اللهِ الأَوْصَافُ",
-    "chapter": "Superlatifs"
+    "chapter": "Superlatifs",
+    "verse": {
+      "arabic": "۞وَيَسۡتَنۢبِـُٔونَكَ أَحَقٌّ هُوَۖ قُلۡ إِي وَرَبِّيٓ إِنَّهُۥ لَحَقّٞۖ وَمَآ أَنتُم بِمُعۡجِزِينَ",
+      "verseNum": 53,
+      "chapterNum": 10,
+      "arabicChapter": "يونس",
+      "translationChapter": "Jonas",
+      "transliterationChapter": "Yunus",
+      "translation": "Et ils s'informent auprès de toi: «Est-ce vrai?» - Dis: «Oui! Par mon Seigneur! C'est bien vrai. Et vous ne pouvez vous soustraire à la puissance d'Allah"
+    }
   },
   {
     "arabicWord": "أَدْنَى",
@@ -1586,7 +2639,16 @@
     "translation": "Evidence, preuve, éclaircissement",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Signes d'allah"
+    "chapter": "Signes d'allah",
+    "verse": {
+      "arabic": "وَلَقَد تَّرَكۡنَا مِنۡهَآ ءَايَةَۢ بَيِّنَةٗ لِّقَوۡمٖ يَعۡقِلُونَ",
+      "verseNum": 35,
+      "chapterNum": 29,
+      "arabicChapter": "العنكبوت",
+      "translationChapter": "L'araignée",
+      "transliterationChapter": "Al-'Ankabut",
+      "translation": "Et certainement, Nous avons laissé (des ruines de cette cité) un signe (d'avertissement) évident pour des gens qui comprennent"
+    }
   },
   {
     "arabicWord": "بَيِّنَاتٌ",
@@ -1621,14 +2683,32 @@
     "translation": "Montagne",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Signes d'allah"
+    "chapter": "Signes d'allah",
+    "verse": {
+      "arabic": "لَوۡ أَنزَلۡنَا هَٰذَا ٱلۡقُرۡءَانَ عَلَىٰ جَبَلٖ لَّرَأَيۡتَهُۥ خَٰشِعٗا مُّتَصَدِّعٗا مِّنۡ خَشۡيَةِ ٱللَّهِۚ وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِ لَعَلَّهُمۡ يَتَفَكَّرُونَ",
+      "verseNum": 21,
+      "chapterNum": 59,
+      "arabicChapter": "الحشر",
+      "translationChapter": "L'exode",
+      "transliterationChapter": "Al-Hashr",
+      "translation": "Si Nous avions fait descendre ce Coran sur une montagne, tu l'aurais vu s'humilier et se fendre par crainte d'Allah. Et ces paraboles Nous les citons aux gens afin qu'ils réfléchissent"
+    }
   },
   {
     "arabicWord": "جِبَالٌ",
     "translation": "Montagnes (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Signes d'allah"
+    "chapter": "Signes d'allah",
+    "verse": {
+      "arabic": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُزۡجِي سَحَابٗا ثُمَّ يُؤَلِّفُ بَيۡنَهُۥ ثُمَّ يَجۡعَلُهُۥ رُكَامٗا فَتَرَى ٱلۡوَدۡقَ يَخۡرُجُ مِنۡ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٖ فِيهَا مِنۢ بَرَدٖ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصۡرِفُهُۥ عَن مَّن يَشَآءُۖ يَكَادُ سَنَا بَرۡقِهِۦ يَذۡهَبُ بِٱلۡأَبۡصَٰرِ",
+      "verseNum": 43,
+      "chapterNum": 24,
+      "arabicChapter": "النور",
+      "translationChapter": "La lumière",
+      "transliterationChapter": "An-Nur",
+      "translation": "N'as-tu pas vu qu'Allah pousse les nuages? Ensuite Il les réunit et Il en fait un amas, et tu vois la pluie sortir de son sein. Et Il fait descendre du ciel, de la grêle [provenant] des nuages [comparables] à des montagnes. Il en frappe qui Il veut et l'écarte de qui Il veut. Peu s'en faut que l'éclat de son éclair ne ravisse la vue"
+    }
   },
   {
     "arabicWord": "بَحْرٌ",
@@ -1677,7 +2757,16 @@
     "translation": "Nuits (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Signes d'allah"
+    "chapter": "Signes d'allah",
+    "verse": {
+      "arabic": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٖ سَوِيّٗا",
+      "verseNum": 10,
+      "chapterNum": 19,
+      "arabicChapter": "مريم",
+      "translationChapter": "Marie",
+      "transliterationChapter": "Maryam",
+      "translation": "«O mon Seigneur, dit [Zacharie], accorde-moi un signe». «Ton signe, dit [Allah,] sera que tu ne pourras pas parler aux gens pendant trois nuits tout en étant bien portant"
+    }
   },
   {
     "arabicWord": "نَهَارٌ",
@@ -1698,7 +2787,16 @@
     "translation": "Ciel",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Signes d'allah"
+    "chapter": "Signes d'allah",
+    "verse": {
+      "arabic": "فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+      "verseNum": 12,
+      "chapterNum": 41,
+      "arabicChapter": "فصلت",
+      "translationChapter": "Les versets explicites",
+      "transliterationChapter": "Fussilat",
+      "translation": "Il décréta d'en faire sept cieux en deux jours et révéla à chaque ciel sa fonction. Et Nous avons décoré le ciel le plus proche de lampes [étoiles] et l'avons protégé. Tel est l'Ordre établi par le Puissant, l'Omniscient"
+    }
   },
   {
     "arabicWord": "سَمَاوَاتٌ",
@@ -1726,21 +2824,48 @@
     "translation": "Grâce, bienfait, faveur",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Benedictions, abondance, grâces et autorite"
+    "chapter": "Benedictions, abondance, grâces et autorite",
+    "verse": {
+      "arabic": "وَٱللَّهُ فَضَّلَ بَعۡضَكُمۡ عَلَىٰ بَعۡضٖ فِي ٱلرِّزۡقِۚ فَمَا ٱلَّذِينَ فُضِّلُواْ بِرَآدِّي رِزۡقِهِمۡ عَلَىٰ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَهُمۡ فِيهِ سَوَآءٌۚ أَفَبِنِعۡمَةِ ٱللَّهِ يَجۡحَدُونَ",
+      "verseNum": 71,
+      "chapterNum": 16,
+      "arabicChapter": "النحل",
+      "translationChapter": "Les abeilles",
+      "transliterationChapter": "An-Nahl",
+      "translation": "Allah a favorisé les uns d'entre vous par rapport aux autres dans [la répartition] de Ses dons. Ceux qui ont été favorisés ne sont nullement disposés à donner leur portion à ceux qu'ils possèdent de plein droit [esclaves] au point qu'ils y deviennent associés à part égale. Nieront-ils les bienfaits d'Allah"
+    }
   },
   {
     "arabicWord": "مَاءٌ",
     "translation": "Eau",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Benedictions, abondance, grâces et autorite"
+    "chapter": "Benedictions, abondance, grâces et autorite",
+    "verse": {
+      "arabic": "خُلِقَ مِن مَّآءٖ دَافِقٖ",
+      "verseNum": 6,
+      "chapterNum": 86,
+      "arabicChapter": "الطارق",
+      "translationChapter": "L'astre nocturne",
+      "transliterationChapter": "At-Tariq",
+      "translation": "Il a été créé d'une giclée d'eau"
+    }
   },
   {
     "arabicWord": "مُلْكَ",
     "translation": "Royauté, autorité, règne",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Benedictions, abondance, grâces et autorite"
+    "chapter": "Benedictions, abondance, grâces et autorite",
+    "verse": {
+      "arabic": "مَلِكِ ٱلنَّاسِ",
+      "verseNum": 2,
+      "chapterNum": 114,
+      "arabicChapter": "الناس",
+      "translationChapter": "Les humains",
+      "transliterationChapter": "An-Nas",
+      "translation": "Le Souverain des hommes"
+    }
   },
   {
     "arabicWord": "نِعْمَةَ",
@@ -1782,42 +2907,96 @@
     "translation": "Tout, tous, entier",
     "wordType": "Adjectif",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Benedictions, abondance, grâces et autorite"
+    "chapter": "Benedictions, abondance, grâces et autorite",
+    "verse": {
+      "arabic": "أَمۡ يَقُولُونَ نَحۡنُ جَمِيعٞ مُّنتَصِرٞ",
+      "verseNum": 44,
+      "chapterNum": 54,
+      "arabicChapter": "القمر",
+      "translationChapter": "La lune",
+      "transliterationChapter": "Al-Qamar",
+      "translation": "Ou bien ils disent: «Nous formons un groupe [fort] et nous vaincrons»"
+    }
   },
   {
     "arabicWord": "سَوَاءٌ",
     "translation": "Même, égale, pareil",
     "wordType": "Adjectif",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Benedictions, abondance, grâces et autorite"
+    "chapter": "Benedictions, abondance, grâces et autorite",
+    "verse": {
+      "arabic": "فَٱطَّلَعَ فَرَءَاهُ فِي سَوَآءِ ٱلۡجَحِيمِ",
+      "verseNum": 55,
+      "chapterNum": 37,
+      "arabicChapter": "الصافات",
+      "translationChapter": "Les rangés",
+      "transliterationChapter": "As-Saffat",
+      "translation": "Alors il regardera d'en haut et il le verra en plein dans la Fournaise"
+    }
   },
   {
     "arabicWord": "فَرِيقَ",
     "translation": "Partie, groupe, division",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Benedictions, abondance, grâces et autorite"
+    "chapter": "Benedictions, abondance, grâces et autorite",
+    "verse": {
+      "arabic": "ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمۡ إِذَا فَرِيقٞ مِّنكُم بِرَبِّهِمۡ يُشۡرِكُونَ",
+      "verseNum": 54,
+      "chapterNum": 16,
+      "arabicChapter": "النحل",
+      "translationChapter": "Les abeilles",
+      "transliterationChapter": "An-Nahl",
+      "translation": "Et une fois qu'Il a dissipé votre malheur, voilà qu'une partie d'entre vous se mettent à donner des associés à leur Seigneur"
+    }
   },
   {
     "arabicWord": "بَيْتَ",
     "translation": "Maison, demeure, habitation",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "وَيَقُولُونَ طَاعَةٞ فَإِذَا بَرَزُواْ مِنۡ عِندِكَ بَيَّتَ طَآئِفَةٞ مِّنۡهُمۡ غَيۡرَ ٱلَّذِي تَقُولُۖ وَٱللَّهُ يَكۡتُبُ مَا يُبَيِّتُونَۖ فَأَعۡرِضۡ عَنۡهُمۡ وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "verseNum": 81,
+      "chapterNum": 4,
+      "arabicChapter": "النساء",
+      "translationChapter": "Les femmes",
+      "transliterationChapter": "An-Nisa",
+      "translation": "Ils disent: «Obéissance!» Puis, sitôt sortis de chez toi, une partie d'entre eux délibère au cours de la nuit de tout autre chose que ce qu'elle t'a dit. [Cependant] Allah enregistre ce qu'ils font la nuit. Pardonne-leur donc et place ta confiance en Allah. Et Allah suffit comme Protecteur"
+    }
   },
   {
     "arabicWord": "بُيُوتٌ",
     "translation": "Maisons, demeures (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "فِي بُيُوتٍ أَذِنَ ٱللَّهُ أَن تُرۡفَعَ وَيُذۡكَرَ فِيهَا ٱسۡمُهُۥ يُسَبِّحُ لَهُۥ فِيهَا بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ",
+      "verseNum": 36,
+      "chapterNum": 24,
+      "arabicChapter": "النور",
+      "translationChapter": "La lumière",
+      "transliterationChapter": "An-Nur",
+      "translation": "Dans des maisons [des mosquées] qu'Allah a permis que l'on élève, et où Son Nom est invoqué; Le glorifient en elles matin et après-midi"
+    }
   },
   {
     "arabicWord": "دَارٌ",
     "translation": "Maison, demeure, habitation",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "۞لَهُمۡ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمۡۖ وَهُوَ وَلِيُّهُم بِمَا كَانُواْ يَعۡمَلُونَ",
+      "verseNum": 127,
+      "chapterNum": 6,
+      "arabicChapter": "الأنعام",
+      "translationChapter": "Les bestiaux",
+      "transliterationChapter": "Al-An'am",
+      "translation": "Pour eux la maison du Salut auprès de leur Seigneur. Et c'est Lui qui est leur protecteur, pour ce qu'ils faisaient (sur terre)"
+    }
   },
   {
     "arabicWord": "دِيَارٌ",
@@ -1838,14 +3017,32 @@
     "translation": "Chemin, voie",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "وَكَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ وَلِتَسۡتَبِينَ سَبِيلُ ٱلۡمُجۡرِمِينَ",
+      "verseNum": 55,
+      "chapterNum": 6,
+      "arabicChapter": "الأنعام",
+      "translationChapter": "Les bestiaux",
+      "transliterationChapter": "Al-An'am",
+      "translation": "C'est ainsi que Nous détaillons les versets, afin qu'apparaisse clairement le chemin des criminels"
+    }
   },
   {
     "arabicWord": "سُبُلٌ",
     "translation": "Chemins, voies (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "يَهۡدِي بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضۡوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخۡرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِهِۦ وَيَهۡدِيهِمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+      "verseNum": 16,
+      "chapterNum": 5,
+      "arabicChapter": "المائدة",
+      "translationChapter": "La table servie",
+      "transliterationChapter": "Al-Ma'idah",
+      "translation": "Par ceci (le Coran), Allah guide aux chemins du salut ceux qui cherchent Son agrément. Et Il les fait sortir des ténèbres à la lumière par Sa grâce. Et Il les guide vers un chemin droit"
+    }
   },
   {
     "arabicWord": "صِرَاطٌ",
@@ -1887,14 +3084,32 @@
     "translation": "Cités, villes (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
+      "verseNum": 18,
+      "chapterNum": 34,
+      "arabicChapter": "سبإ",
+      "translationChapter": "Saba'",
+      "transliterationChapter": "Saba",
+      "translation": "Et Nous avions placé entre eux et les cités que Nous avions bénies, d'autres cités proéminentes, et Nous avions évalué les étapes de voyage entre elles. «Voyagez entre elles pendant des nuits et des jours, en sécurité»"
+    }
   },
   {
     "arabicWord": "مَالٌ",
     "translation": "Richesse, biens matériels",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "أَن كَانَ ذَا مَالٖ وَبَنِينَ",
+      "verseNum": 14,
+      "chapterNum": 68,
+      "arabicChapter": "القلم",
+      "translationChapter": "La plume",
+      "transliterationChapter": "Al-Qalam",
+      "translation": "Même s'il est doté de richesses et (de nombreux) enfants"
+    }
   },
   {
     "arabicWord": "أَمْوَالٌ",
@@ -1915,7 +3130,16 @@
     "translation": "Mosquée",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "مَا كَانَ لِلۡمُشۡرِكِينَ أَن يَعۡمُرُواْ مَسَٰجِدَ ٱللَّهِ شَٰهِدِينَ عَلَىٰٓ أَنفُسِهِم بِٱلۡكُفۡرِۚ أُوْلَـٰٓئِكَ حَبِطَتۡ أَعۡمَٰلُهُمۡ وَفِي ٱلنَّارِ هُمۡ خَٰلِدُونَ",
+      "verseNum": 17,
+      "chapterNum": 9,
+      "arabicChapter": "التوبة",
+      "translationChapter": "Le repentir",
+      "transliterationChapter": "At-Tawbah",
+      "translation": "Il n'appartient pas aux associateurs de peupler les mosquées d'Allah, vu qu'ils témoignent contre eux-mêmes de leur mécréance. Voilà ceux dont les œuvres sont vaines; et dans le Feu ils demeureront éternellement"
+    }
   },
   {
     "arabicWord": "مَسَاجِدٌ",
@@ -1929,7 +3153,16 @@
     "translation": "Place, endroit, lieu",
     "wordType": "Nom",
     "wordArabicType": "خَلْقُ اللهِ وَ",
-    "chapter": "Univers, monde(s), demeure et ici-bas"
+    "chapter": "Univers, monde(s), demeure et ici-bas",
+    "verse": {
+      "arabic": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ",
+      "verseNum": 41,
+      "chapterNum": 50,
+      "arabicChapter": "ق",
+      "translationChapter": "Qaf",
+      "transliterationChapter": "Qaf",
+      "translation": "Et sois à l'écoute, le jour où le Crieur criera d'un endroit proche"
+    }
   },
   {
     "arabicWord": "مَكَانَةَ",
@@ -1964,14 +3197,32 @@
     "translation": "Tourment, châtiment",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (1/2)"
+    "chapter": "Le jour de la resurrection (1/2)",
+    "verse": {
+      "arabic": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ",
+      "verseNum": 7,
+      "chapterNum": 52,
+      "arabicChapter": "الطور",
+      "translationChapter": "Le mont At-Tour",
+      "transliterationChapter": "At-Tur",
+      "translation": "Le châtiment de ton Seigneur aura lieu inévitablement"
+    }
   },
   {
     "arabicWord": "عِقَابٌ",
     "translation": "Châtiment, punition, rétribution",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (1/2)"
+    "chapter": "Le jour de la resurrection (1/2)",
+    "verse": {
+      "arabic": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+      "verseNum": 14,
+      "chapterNum": 38,
+      "arabicChapter": "ص",
+      "translationChapter": "Sad",
+      "transliterationChapter": "Sad",
+      "translation": "Il n'en est aucun qui n'ait traité les Messagers de menteurs. Et bien, Ma punition s'est avérée contre eux"
+    }
   },
   {
     "arabicWord": "قِيَامَةَ",
@@ -1985,21 +3236,48 @@
     "translation": "Rencontre",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (1/2)"
+    "chapter": "Le jour de la resurrection (1/2)",
+    "verse": {
+      "arabic": "مَن كَانَ يَرۡجُواْ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَأٓتٖۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+      "verseNum": 5,
+      "chapterNum": 29,
+      "arabicChapter": "العنكبوت",
+      "translationChapter": "L'araignée",
+      "transliterationChapter": "Al-'Ankabut",
+      "translation": "Celui qui espère rencontrer Allah, le terme fixé par Allah va certainement venir. Et c'est Lui l'Audient, l'Omniscient"
+    }
   },
   {
     "arabicWord": "مُسَمًّى",
     "translation": "Fixé, déterminé, spécifié, nommé, désigné",
     "wordType": "Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (1/2)"
+    "chapter": "Le jour de la resurrection (1/2)",
+    "verse": {
+      "arabic": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
+      "verseNum": 129,
+      "chapterNum": 20,
+      "arabicChapter": "طه",
+      "translationChapter": "Ta-Ha",
+      "transliterationChapter": "Taha",
+      "translation": "N'eussent-été un décret préalable de ton Seigneur et aussi un terme déjà fixé, (leur châtiment) aurait été inévitable (et immédiat)"
+    }
   },
   {
     "arabicWord": "نَارٌ",
     "translation": "Feu, fournaise",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (1/2)"
+    "chapter": "Le jour de la resurrection (1/2)",
+    "verse": {
+      "arabic": "نَارٌ حَامِيَةُۢ",
+      "verseNum": 11,
+      "chapterNum": 101,
+      "arabicChapter": "القارعة",
+      "translationChapter": "Le fracas",
+      "transliterationChapter": "Al-Qari'ah",
+      "translation": "C'est un Feu ardent"
+    }
   },
   {
     "arabicWord": "نَهَرٌ",
@@ -2034,7 +3312,16 @@
     "translation": "Jours (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (1/2)"
+    "chapter": "Le jour de la resurrection (1/2)",
+    "verse": {
+      "arabic": "وَلَقَدۡ خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ أَيَّامٖ وَمَا مَسَّنَا مِن لُّغُوبٖ",
+      "verseNum": 38,
+      "chapterNum": 50,
+      "arabicChapter": "ق",
+      "translationChapter": "Qaf",
+      "transliterationChapter": "Qaf",
+      "translation": "En effet Nous avons créé les cieux et la terre et ce qui existe entre eux en six jours, sans éprouver la moindre lassitude"
+    }
   },
   {
     "arabicWord": "يَوْمَئِذٍ",
@@ -2048,7 +3335,16 @@
     "translation": "Toujours, pour toujours, à jamais, jamais",
     "wordType": "Adverbe",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "مَّـٰكِثِينَ فِيهِ أَبَدٗا",
+      "verseNum": 3,
+      "chapterNum": 18,
+      "arabicChapter": "الكهف",
+      "translationChapter": "La caverne",
+      "transliterationChapter": "Al-Kahf",
+      "translation": "où ils demeureront éternellement"
+    }
   },
   {
     "arabicWord": "أَجْرٌ",
@@ -2069,7 +3365,16 @@
     "translation": "Terme, délai",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلرِّجۡزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمۡ يَنكُثُونَ",
+      "verseNum": 135,
+      "chapterNum": 7,
+      "arabicChapter": "الأعراف",
+      "translationChapter": "Al-A'raf",
+      "transliterationChapter": "Al-A'raf",
+      "translation": "Et quand Nous eûmes éloigné d'eux le châtiment jusqu'au terme fixé qu'ils devaient atteindre, voilà qu'ils violèrent l'engagement"
+    }
   },
   {
     "arabicWord": "الآخِرَةُ",
@@ -2083,28 +3388,64 @@
     "translation": "Douloureux",
     "wordType": "Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ",
+      "verseNum": 24,
+      "chapterNum": 84,
+      "arabicChapter": "الإنشقاق",
+      "translationChapter": "La déchirure",
+      "transliterationChapter": "Al-Inshiqaq",
+      "translation": "Annonce-leur donc un châtiment douloureux"
+    }
   },
   {
     "arabicWord": "ثَوَابَ",
     "translation": "Récompense, bonne rétribution",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنۡيَا وَحُسۡنَ ثَوَابِ ٱلۡأٓخِرَةِۗ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ",
+      "verseNum": 148,
+      "chapterNum": 3,
+      "arabicChapter": "آل عمران",
+      "translationChapter": "La famille de 'imran",
+      "transliterationChapter": "Ali 'Imran",
+      "translation": "Allah, donc, leur donna la récompense d'ici-bas, ainsi que la belle récompense de l'au-delà. Et Allah aime les gens bienfaisants"
+    }
   },
   {
     "arabicWord": "جَحِيمَ",
     "translation": "Enfer, feu ardent, fournaise",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "verseNum": 94,
+      "chapterNum": 56,
+      "arabicChapter": "الواقعة",
+      "translationChapter": "L'inévitable",
+      "transliterationChapter": "Al-Waqi'ah",
+      "translation": "et il brûlera dans la Fournaise"
+    }
   },
   {
     "arabicWord": "جَزَاءٌ",
     "translation": "Récompense, bonne rétribution",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "جَزَآءٗ وِفَاقًا",
+      "verseNum": 26,
+      "chapterNum": 78,
+      "arabicChapter": "النبإ",
+      "translationChapter": "La nouvelle",
+      "transliterationChapter": "An-Naba",
+      "translation": "comme rétribution équitable"
+    }
   },
   {
     "arabicWord": "الْجَنَّةُ",
@@ -2125,14 +3466,32 @@
     "translation": "L'Enfer",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا",
+      "verseNum": 21,
+      "chapterNum": 78,
+      "arabicChapter": "النبإ",
+      "translationChapter": "La nouvelle",
+      "transliterationChapter": "An-Naba",
+      "translation": "L'Enfer demeure aux aguets"
+    }
   },
   {
     "arabicWord": "حِسَابٌ",
     "translation": "Compte(s)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Le jour de la resurrection (2/2)"
+    "chapter": "Le jour de la resurrection (2/2)",
+    "verse": {
+      "arabic": "هَٰذَا عَطَآؤُنَا فَٱمۡنُنۡ أَوۡ أَمۡسِكۡ بِغَيۡرِ حِسَابٖ",
+      "verseNum": 39,
+      "chapterNum": 38,
+      "arabicChapter": "ص",
+      "translationChapter": "Sad",
+      "transliterationChapter": "Sad",
+      "translation": "«Voilà Notre don; distribue-le ou retiens-le sans avoir à en rendre compte»"
+    }
   },
   {
     "arabicWord": "السَّاعَةُ",
@@ -2146,7 +3505,16 @@
     "translation": "Affaire, cas, matière, ordre (commandement)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Religion"
+    "chapter": "Religion",
+    "verse": {
+      "arabic": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+      "verseNum": 12,
+      "chapterNum": 96,
+      "arabicChapter": "العلق",
+      "translationChapter": "L'adhérence",
+      "transliterationChapter": "Al-'Alaq",
+      "translation": "ou s'il ordonne la piété"
+    }
   },
   {
     "arabicWord": "أُمُورٌ",
@@ -2167,7 +3535,16 @@
     "translation": "Vérité, vrai, droit, droiture",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Religion"
+    "chapter": "Religion",
+    "verse": {
+      "arabic": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "verseNum": 95,
+      "chapterNum": 56,
+      "arabicChapter": "الواقعة",
+      "translationChapter": "L'inévitable",
+      "transliterationChapter": "Al-Waqi'ah",
+      "translation": "C'est cela la pleine certitude"
+    }
   },
   {
     "arabicWord": "بَاطِلَ",
@@ -2195,7 +3572,16 @@
     "translation": "Religion, loi",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Religion"
+    "chapter": "Religion",
+    "verse": {
+      "arabic": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "verseNum": 6,
+      "chapterNum": 109,
+      "arabicChapter": "الكافرون",
+      "translationChapter": "Les mécréants",
+      "transliterationChapter": "Al-Kafirun",
+      "translation": "A vous votre religion, et à moi ma religion»"
+    }
   },
   {
     "arabicWord": "زَكَاةَ",
@@ -2209,14 +3595,32 @@
     "translation": "Témoin",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Religion"
+    "chapter": "Religion",
+    "verse": {
+      "arabic": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+      "verseNum": 9,
+      "chapterNum": 85,
+      "arabicChapter": "البروج",
+      "translationChapter": "Les constellations",
+      "transliterationChapter": "Al-Buruj",
+      "translation": "Auquel appartient la royauté des cieux et de la terre. Allah est témoin de toute chose"
+    }
   },
   {
     "arabicWord": "شُهَدَاءُ",
     "translation": "Témoins (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Religion"
+    "chapter": "Religion",
+    "verse": {
+      "arabic": "وَٱلَّذِينَ يَرۡمُونَ أَزۡوَٰجَهُمۡ وَلَمۡ يَكُن لَّهُمۡ شُهَدَآءُ إِلَّآ أَنفُسُهُمۡ فَشَهَٰدَةُ أَحَدِهِمۡ أَرۡبَعُ شَهَٰدَٰتِۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+      "verseNum": 6,
+      "chapterNum": 24,
+      "arabicChapter": "النور",
+      "translationChapter": "La lumière",
+      "transliterationChapter": "An-Nur",
+      "translation": "Et quant à ceux qui lancent des accusations contre leurs propres épouses, sans avoir d'autres témoins qu'eux-mêmes, le témoignage de l'un d'eux doit être une quadruple attestation par Allah qu'il est du nombre des véridiques"
+    }
   },
   {
     "arabicWord": "صَلَاةَ",
@@ -2230,21 +3634,48 @@
     "translation": "Clair, explicite, évident",
     "wordType": "Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Religion"
+    "chapter": "Religion",
+    "verse": {
+      "arabic": "بِلِسَانٍ عَرَبِيّٖ مُّبِينٖ",
+      "verseNum": 195,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "en une langue arabe très claire"
+    }
   },
   {
     "arabicWord": "نُورٌ",
     "translation": "Lumière",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Religion"
+    "chapter": "Religion",
+    "verse": {
+      "arabic": "يُرِيدُونَ لِيُطۡفِـُٔواْ نُورَ ٱللَّهِ بِأَفۡوَٰهِهِمۡ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوۡ كَرِهَ ٱلۡكَٰفِرُونَ",
+      "verseNum": 8,
+      "chapterNum": 61,
+      "arabicChapter": "الصف",
+      "translationChapter": "Le rang",
+      "transliterationChapter": "As-Saf",
+      "translation": "Ils veulent éteindre de leurs bouches la lumière d'Allah, alors qu'Allah parachèvera Sa lumière en dépit de l'aversion des mécréants"
+    }
   },
   {
     "arabicWord": "أَحَدٌ",
     "translation": "Un",
     "wordType": "Nom/Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+      "verseNum": 1,
+      "chapterNum": 112,
+      "arabicChapter": "الإخلاص",
+      "translationChapter": "La sincérité",
+      "transliterationChapter": "Al-Ikhlas",
+      "translation": "Dis: «Il est Allah, Unique"
+    }
   },
   {
     "arabicWord": "إِحْدَى",
@@ -2258,7 +3689,16 @@
     "translation": "Divinité(s)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "إِلَٰهِ ٱلنَّاسِ",
+      "verseNum": 3,
+      "chapterNum": 114,
+      "arabicChapter": "الناس",
+      "translationChapter": "Les humains",
+      "transliterationChapter": "An-Nas",
+      "translation": "Dieu des hommes"
+    }
   },
   {
     "arabicWord": "آلِهَةٌ",
@@ -2272,14 +3712,32 @@
     "translation": "Partenaire, associé",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "لَا شَرِيكَ لَهُۥۖ وَبِذَٰلِكَ أُمِرۡتُ وَأَنَا۠ أَوَّلُ ٱلۡمُسۡلِمِينَ",
+      "verseNum": 163,
+      "chapterNum": 6,
+      "arabicChapter": "الأنعام",
+      "translationChapter": "Les bestiaux",
+      "transliterationChapter": "Al-An'am",
+      "translation": "A Lui nul associé! Et voilà ce qu'il m'a été ordonné, et je suis le premier à me soumettre.»"
+    }
   },
   {
     "arabicWord": "شُرَكَاءُ",
     "translation": "Partenaires, associés (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صَٰدِقِينَ",
+      "verseNum": 41,
+      "chapterNum": 68,
+      "arabicChapter": "القلم",
+      "translationChapter": "La plume",
+      "transliterationChapter": "Al-Qalam",
+      "translation": "Ou encore, est-ce qu'ils ont des associés? Eh bien, qu'ils fassent venir leurs associés s'ils sont véridiques"
+    }
   },
   {
     "arabicWord": "شَهَادَةَ",
@@ -2307,7 +3765,16 @@
     "translation": "Engagement, pacte",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "وَقَالُواْ يَـٰٓأَيُّهَ ٱلسَّاحِرُ ٱدۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهۡتَدُونَ",
+      "verseNum": 49,
+      "chapterNum": 43,
+      "arabicChapter": "الزخرف",
+      "translationChapter": "L'ornement",
+      "transliterationChapter": "Az-Zukhruf",
+      "translation": "Et ils dirent: «O magicien! Implore pour nous ton Seigneur au nom de l'engagement qu'Il a pris envers toi. Nous suivrons le droit chemin»"
+    }
   },
   {
     "arabicWord": "الْغَيْبَ",
@@ -2321,21 +3788,48 @@
     "translation": "Ecrit, Livre, registre",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ",
+      "verseNum": 4,
+      "chapterNum": 15,
+      "arabicChapter": "الحجر",
+      "translationChapter": "Al-Hijr",
+      "transliterationChapter": "Al-Hijr",
+      "translation": "Or Nous ne détruisons aucune cité sans qu'elle n'ait eu [un terme fixé en] une Ecriture connue"
+    }
   },
   {
     "arabicWord": "كُتُبٌ",
     "translation": "Ecrits, Livres (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "كِتَٰبٞ مَّرۡقُومٞ",
+      "verseNum": 9,
+      "chapterNum": 83,
+      "arabicChapter": "المطففين",
+      "translationChapter": "Les fraudeurs",
+      "transliterationChapter": "Al-Mutaffifin",
+      "translation": "Un livre déjà cacheté (achevé)"
+    }
   },
   {
     "arabicWord": "كَلِمَةَ",
     "translation": "Mot, parole",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
+      "verseNum": 129,
+      "chapterNum": 20,
+      "arabicChapter": "طه",
+      "translationChapter": "Ta-Ha",
+      "transliterationChapter": "Taha",
+      "translation": "N'eussent-été un décret préalable de ton Seigneur et aussi un terme déjà fixé, (leur châtiment) aurait été inévitable (et immédiat)"
+    }
   },
   {
     "arabicWord": "كَلِمَاتٌ",
@@ -2349,7 +3843,16 @@
     "translation": "Ange",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Foi"
+    "chapter": "Foi",
+    "verse": {
+      "arabic": "مَلِكِ ٱلنَّاسِ",
+      "verseNum": 2,
+      "chapterNum": 114,
+      "arabicChapter": "الناس",
+      "translationChapter": "Les humains",
+      "transliterationChapter": "An-Nas",
+      "translation": "Le Souverain des hommes"
+    }
   },
   {
     "arabicWord": "مَلَائِكَةٌ",
@@ -2391,7 +3894,16 @@
     "translation": "Bonne (action)",
     "wordType": "Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "وَمِنۡهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
+      "verseNum": 201,
+      "chapterNum": 2,
+      "arabicChapter": "البقرة",
+      "translationChapter": "La vache",
+      "transliterationChapter": "Al-Baqarah",
+      "translation": "Et il est des gens qui disent: «Seigneur! Accorde nous belle part ici-bas, et belle part aussi dans l'au-delà; et protège-nous du châtiment du Feu!»"
+    }
   },
   {
     "arabicWord": "حَسَنَاتٌ",
@@ -2405,7 +3917,16 @@
     "translation": "Mauvaise (action)",
     "wordType": "Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "بَلَىٰۚ مَن كَسَبَ سَيِّئَةٗ وَأَحَٰطَتۡ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+      "verseNum": 81,
+      "chapterNum": 2,
+      "arabicChapter": "البقرة",
+      "translationChapter": "La vache",
+      "transliterationChapter": "Al-Baqarah",
+      "translation": "Bien au contraire! Ceux qui font le mal et qui se font cerner par leurs péchés, ceux-là sont les gens du Feu où ils demeureront éternellement"
+    }
   },
   {
     "arabicWord": "سَيِّئَاتٌ",
@@ -2426,7 +3947,16 @@
     "translation": "Mauvais, pire",
     "wordType": "Nom/Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "مِن شَرِّ مَا خَلَقَ",
+      "verseNum": 2,
+      "chapterNum": 113,
+      "arabicChapter": "الفلق",
+      "translationChapter": "L'aube naissante",
+      "transliterationChapter": "Al-Falaq",
+      "translation": "contre le mal des êtres qu'Il a créés"
+    }
   },
   {
     "arabicWord": "أَشْرَارٌ",
@@ -2454,21 +3984,48 @@
     "translation": "Péchés, fautes (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+      "verseNum": 59,
+      "chapterNum": 51,
+      "arabicChapter": "الذاريات",
+      "translationChapter": "Qui éparpillent",
+      "transliterationChapter": "Adh-Dhariyat",
+      "translation": "Ceux qui ont été injustes auront une part [de tourments] pareille à celle de leurs compagnons. Qu'ils ne soient pas trop pressés"
+    }
   },
   {
     "arabicWord": "جُنَاحَ",
     "translation": "Péché, faute",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "وَٱخۡفِضۡ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحۡمَةِ وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرٗا",
+      "verseNum": 24,
+      "chapterNum": 17,
+      "arabicChapter": "الإسراء",
+      "translationChapter": "Le voyage nocturne",
+      "transliterationChapter": "Al-Isra",
+      "translation": "et par miséricorde, abaisse pour eux l'aile de l'humilité, et dis: «O mon Seigneur, fais-leur, à tous deux, miséricorde comme ils m'ont élevé tout petit»"
+    }
   },
   {
     "arabicWord": "حَرَامَ",
     "translation": "Interdit, illégal, sacré",
     "wordType": "Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "وَلَا تَقُولُواْ لِمَا تَصِفُ أَلۡسِنَتُكُمُ ٱلۡكَذِبَ هَٰذَا حَلَٰلٞ وَهَٰذَا حَرَامٞ لِّتَفۡتَرُواْ عَلَى ٱللَّهِ ٱلۡكَذِبَۚ إِنَّ ٱلَّذِينَ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ لَا يُفۡلِحُونَ",
+      "verseNum": 116,
+      "chapterNum": 16,
+      "arabicChapter": "النحل",
+      "translationChapter": "Les abeilles",
+      "transliterationChapter": "An-Nahl",
+      "translation": "Et ne dites pas, conformément aux mensonges proférés par vos langues: «Ceci est licite, et cela est illicite», pour forger le mensonge contre Allah. Certes, ceux qui forgent le mensonge contre Allah ne réussiront pas"
+    }
   },
   {
     "arabicWord": "اسْمٌ",
@@ -2489,21 +4046,48 @@
     "translation": "Discours, parole, récit, songe",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "هَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+      "verseNum": 15,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Le récit de Moïse t'est-il parvenu"
+    }
   },
   {
     "arabicWord": "أَحَادِيثٌ",
     "translation": "Discours, récits (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "فَقَالُواْ رَبَّنَا بَٰعِدۡ بَيۡنَ أَسۡفَارِنَا وَظَلَمُوٓاْ أَنفُسَهُمۡ فَجَعَلۡنَٰهُمۡ أَحَادِيثَ وَمَزَّقۡنَٰهُمۡ كُلَّ مُمَزَّقٍۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
+      "verseNum": 19,
+      "chapterNum": 34,
+      "arabicChapter": "سبإ",
+      "translationChapter": "Saba'",
+      "transliterationChapter": "Saba",
+      "translation": "Puis, ils dirent: «Seigneur, allonge les distances entre nos étapes», et ils se firent du tort à eux-mêmes. Nous fîmes d'eux, donc, des sujets de légendes et les désintégrâmes totalement. Il y a en cela des avertissements pour tous grand endurant et grand reconnaissant"
+    }
   },
   {
     "arabicWord": "طَيِّبَةٌ",
     "translation": "Bonne chose",
     "wordType": "Adjectif",
     "wordArabicType": "الدِّينُ وَالإِيمَانُ وَالأَعْمَالُ",
-    "chapter": "Actes"
+    "chapter": "Actes",
+    "verse": {
+      "arabic": "أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ",
+      "verseNum": 24,
+      "chapterNum": 14,
+      "arabicChapter": "ابراهيم",
+      "translationChapter": "Abraham",
+      "transliterationChapter": "Ibrahim",
+      "translation": "N'as-tu pas vu comment Allah propose en parabole une bonne parole pareille à un bel arbre dont la racine est ferme et la ramure s'élançant dans le ciel"
+    }
   },
   {
     "arabicWord": "طَيِّبَاتٌ",
@@ -2517,14 +4101,32 @@
     "translation": "Messager(s)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+      "verseNum": 107,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "Je suis pour vous un messager digne de confiance"
+    }
   },
   {
     "arabicWord": "رُسُلٌ",
     "translation": "Messagers (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "وَإِن يُكَذِّبُوكَ فَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+      "verseNum": 4,
+      "chapterNum": 35,
+      "arabicChapter": "فاطر",
+      "translationChapter": "Le Créateur",
+      "transliterationChapter": "Fatir",
+      "translation": "Et s'ils te traitent de menteur, certes on a traité de menteurs des Messagers avant toi. Vers Allah cependant, tout est ramené"
+    }
   },
   {
     "arabicWord": "مُرْسَلٌ",
@@ -2545,7 +4147,16 @@
     "translation": "Prophète, Envoyé",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "وَكَمۡ أَرۡسَلۡنَا مِن نَّبِيّٖ فِي ٱلۡأَوَّلِينَ",
+      "verseNum": 6,
+      "chapterNum": 43,
+      "arabicChapter": "الزخرف",
+      "translationChapter": "L'ornement",
+      "transliterationChapter": "Az-Zukhruf",
+      "translation": "Que de prophètes avons-Nous envoyés aux Anciens"
+    }
   },
   {
     "arabicWord": "نَبِيُّونَ",
@@ -2580,7 +4191,16 @@
     "translation": "Noé",
     "wordType": "Nom propre",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "كَذَّبَتۡ قَوۡمُ نُوحٍ ٱلۡمُرۡسَلِينَ",
+      "verseNum": 105,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "Le peuple de Noé traita de menteurs les Messagers"
+    }
   },
   {
     "arabicWord": "إِبْرَاهِيمَ",
@@ -2594,7 +4214,16 @@
     "translation": "Lot",
     "wordType": "Nom propre",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ",
+      "verseNum": 43,
+      "chapterNum": 22,
+      "arabicChapter": "الحج",
+      "translationChapter": "Le pèlerinage",
+      "transliterationChapter": "Al-Hajj",
+      "translation": "de même que le peuple d'Abraham, le peuple de Lot"
+    }
   },
   {
     "arabicWord": "إِسْمَاعِيلَ",
@@ -2629,14 +4258,32 @@
     "translation": "Joseph",
     "wordType": "Nom propre",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "۞لَّقَدۡ كَانَ فِي يُوسُفَ وَإِخۡوَتِهِۦٓ ءَايَٰتٞ لِّلسَّآئِلِينَ",
+      "verseNum": 7,
+      "chapterNum": 12,
+      "arabicChapter": "يوسف",
+      "translationChapter": "Joseph",
+      "transliterationChapter": "Yusuf",
+      "translation": "Il y avait certainement, en Joseph et ses frères, des exhortations pour ceux qui interrogent"
+    }
   },
   {
     "arabicWord": "هُودٌ",
     "translation": "Houd (Prophète des 'Ad)",
     "wordType": "Nom propre",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ هُودٌ أَلَا تَتَّقُونَ",
+      "verseNum": 124,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "Et quand Hûd, leur frère (contribule), leur dit: «Ne craindrez-vous pas [Allah]?»"
+    }
   },
   {
     "arabicWord": "شُعَيْبٌ",
@@ -2657,7 +4304,16 @@
     "translation": "Moïse",
     "wordType": "Nom propre",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "رَبِّ مُوسَىٰ وَهَٰرُونَ",
+      "verseNum": 122,
+      "chapterNum": 7,
+      "arabicChapter": "الأعراف",
+      "translationChapter": "Al-A'raf",
+      "transliterationChapter": "Al-A'raf",
+      "translation": "au Seigneur de Moïse et d'Aaron.»"
+    }
   },
   {
     "arabicWord": "عِيسَى ابْنُ",
@@ -2699,21 +4355,48 @@
     "translation": "Ad (peuple)",
     "wordType": "Nom propre",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِينَ",
+      "verseNum": 123,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "Les 'Aad traitèrent de menteurs les Envoyés"
+    }
   },
   {
     "arabicWord": "ثَمُودُ",
     "translation": "Thamoud (peuple)",
     "wordType": "Nom propre",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Personnages"
+    "chapter": "Personnages",
+    "verse": {
+      "arabic": "كَذَّبَتۡ ثَمُودُ بِٱلنُّذُرِ",
+      "verseNum": 23,
+      "chapterNum": 54,
+      "arabicChapter": "القمر",
+      "translationChapter": "La lune",
+      "transliterationChapter": "Al-Qamar",
+      "translation": "Les Thamûd ont traité de mensonges les avertissements"
+    }
   },
   {
     "arabicWord": "أُمٌّ",
     "translation": "Mère",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا",
+      "verseNum": 27,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Etes-vous plus durs à créer? ou le ciel, qu'Il a pourtant construit"
+    }
   },
   {
     "arabicWord": "أُمَّهَاتٌ",
@@ -2755,21 +4438,48 @@
     "translation": "Homme",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِينَ",
+      "verseNum": 38,
+      "chapterNum": 23,
+      "arabicChapter": "المؤمنون",
+      "translationChapter": "Les croyants",
+      "transliterationChapter": "Al-Mu'minun",
+      "translation": "Ce n'est qu'un homme qui forge un mensonge contre Allah; et nous ne croirons pas en lui»"
+    }
   },
   {
     "arabicWord": "رِجَالٌ",
     "translation": "Hommes (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "وَأَنَّهُۥ كَانَ رِجَالٞ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالٖ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقٗا",
+      "verseNum": 6,
+      "chapterNum": 72,
+      "arabicChapter": "الجن",
+      "translationChapter": "Les djinns",
+      "transliterationChapter": "Al-Jinn",
+      "translation": "Or, il y avait parmi les humains, des mâles qui cherchaient protection auprès des mâles parmi les djinns mais cela ne fit qu'accroître leur détresse"
+    }
   },
   {
     "arabicWord": "نِسَاءٌ",
     "translation": "Femme(s)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "وَإِذۡ قَالَتِ ٱلۡمَلَـٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ ٱصۡطَفَىٰكِ وَطَهَّرَكِ وَٱصۡطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلۡعَٰلَمِينَ",
+      "verseNum": 42,
+      "chapterNum": 3,
+      "arabicChapter": "آل عمران",
+      "translationChapter": "La famille de 'imran",
+      "transliterationChapter": "Ali 'Imran",
+      "translation": "(Rappelle-toi) quand les Anges dirent: «O Marie, certes Allah t'a élue et purifiée; et Il t'a élue au-dessus des femmes des mondes"
+    }
   },
   {
     "arabicWord": "امْرَأَةٌ",
@@ -2783,7 +4493,16 @@
     "translation": "Enfant",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "وَوَالِدٖ وَمَا وَلَدَ",
+      "verseNum": 3,
+      "chapterNum": 90,
+      "arabicChapter": "البلد",
+      "translationChapter": "La cité",
+      "transliterationChapter": "Al-Balad",
+      "translation": "Et par le père et ce qu'il engendre"
+    }
   },
   {
     "arabicWord": "أَوْلَادٌ",
@@ -2797,7 +4516,16 @@
     "translation": "Géniteur (père)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡ وَٱخۡشَوۡاْ يَوۡمٗا لَّا يَجۡزِي وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوۡلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيۡـًٔاۚ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
+      "verseNum": 33,
+      "chapterNum": 31,
+      "arabicChapter": "لقمان",
+      "translationChapter": "Louqman",
+      "transliterationChapter": "Luqman",
+      "translation": "O hommes! Craignez votre Seigneur et redoutez un jour où le père ne répondra en quoi que ce soit pour son enfant, ni l'enfant pour son père. La promesse d'Allah est vérité. Que la vie présente ne vous trompe donc pas, et que le Trompeur (Satan) ne vous induise pas en erreur sur Allah"
+    }
   },
   {
     "arabicWord": "وَالِدَيْنِ",
@@ -2825,7 +4553,16 @@
     "translation": "Descendants, enfants, progéniture",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدٗا شَكُورٗا",
+      "verseNum": 3,
+      "chapterNum": 17,
+      "arabicChapter": "الإسراء",
+      "translationChapter": "Le voyage nocturne",
+      "transliterationChapter": "Al-Isra",
+      "translation": "[O vous], les descendants de ceux que Nous avons transportés dans l'arche avec Noé. Celui-ci était vraiment un serviteur fort reconnaissant"
+    }
   },
   {
     "arabicWord": "ابْنٌ",
@@ -2839,14 +4576,32 @@
     "translation": "Fils (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "يَوۡمَ لَا يَنفَعُ مَالٞ وَلَا بَنُونَ",
+      "verseNum": 88,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "le jour où ni les biens, ni les enfants ne seront d'aucune utilité"
+    }
   },
   {
     "arabicWord": "بَنِينَ",
     "translation": "Fils (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "وَجَعَلُواْ لِلَّهِ شُرَكَآءَ ٱلۡجِنَّ وَخَلَقَهُمۡۖ وَخَرَقُواْ لَهُۥ بَنِينَ وَبَنَٰتِۭ بِغَيۡرِ عِلۡمٖۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَصِفُونَ",
+      "verseNum": 100,
+      "chapterNum": 6,
+      "arabicChapter": "الأنعام",
+      "translationChapter": "Les bestiaux",
+      "transliterationChapter": "Al-An'am",
+      "translation": "Et ils ont désigné des associés à Allah: les djinns, alors que c'est Lui qui les a créés. Et ils Lui ont inventé, dans leur ignorance, des fils et des filles, Gloire à Lui! Il transcende tout ce qu'ils lui attribuent"
+    }
   },
   {
     "arabicWord": "أَبْنَاءُ",
@@ -2867,14 +4622,32 @@
     "translation": "Filles (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "أَمِ ٱتَّخَذَ مِمَّا يَخۡلُقُ بَنَاتٖ وَأَصۡفَىٰكُم بِٱلۡبَنِينَ",
+      "verseNum": 16,
+      "chapterNum": 43,
+      "arabicChapter": "الزخرف",
+      "translationChapter": "L'ornement",
+      "transliterationChapter": "Az-Zukhruf",
+      "translation": "Ou bien Se serait-Il attribué des filles parmi ce qu'Il crée et accordé à vous par préférence des fils"
+    }
   },
   {
     "arabicWord": "أَخٌ",
     "translation": "Frère(s)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parents, famille"
+    "chapter": "Parents, famille",
+    "verse": {
+      "arabic": "۞قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخٞ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرّٞ مَّكَانٗاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
+      "verseNum": 77,
+      "chapterNum": 12,
+      "arabicChapter": "يوسف",
+      "translationChapter": "Joseph",
+      "transliterationChapter": "Yusuf",
+      "translation": "Ils dirent: «S'il a commis un vol, un frère à lui auparavant a volé aussi.» Mais Joseph tint sa pensée secrète, et ne la leur dévoila pas. Il dit [en lui même]: «Votre position est bien pire encore! Et Allah connaît mieux ce que vous décrivez.»"
+    }
   },
   {
     "arabicWord": "إِخْوَانٌ",
@@ -2916,14 +4689,32 @@
     "translation": "Faces, visages (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "وُجُوهٞ يَوۡمَئِذٍ خَٰشِعَةٌ",
+      "verseNum": 2,
+      "chapterNum": 88,
+      "arabicChapter": "الغاشية",
+      "translationChapter": "L'enveloppante",
+      "transliterationChapter": "Al-Ghashiyah",
+      "translation": "Ce jour-là, il y aura des visages humiliés"
+    }
   },
   {
     "arabicWord": "عَيْنَ",
     "translation": "Œil",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "وَحُورٌ عِينٞ",
+      "verseNum": 22,
+      "chapterNum": 56,
+      "arabicChapter": "الواقعة",
+      "translationChapter": "L'inévitable",
+      "transliterationChapter": "Al-Waqi'ah",
+      "translation": "Et ils auront des houris aux yeux, grands et beaux"
+    }
   },
   {
     "arabicWord": "أَعْيُنٌ",
@@ -2951,7 +4742,16 @@
     "translation": "Langue (membre), langage",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "وَٱجۡعَل لِّي لِسَانَ صِدۡقٖ فِي ٱلۡأٓخِرِينَ",
+      "verseNum": 84,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "fais que j'aie une mention honorable sur les langues de la postérité"
+    }
   },
   {
     "arabicWord": "أَلْسِنَةٌ",
@@ -2972,7 +4772,16 @@
     "translation": "Cœurs (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ",
+      "verseNum": 8,
+      "chapterNum": 79,
+      "arabicChapter": "النازعات",
+      "translationChapter": "Ceux qui arrachent",
+      "transliterationChapter": "An-Nazi'at",
+      "translation": "Ce jour-là, il y aura des cœurs qui seront agités d'effroi"
+    }
   },
   {
     "arabicWord": "صَدْرٌ",
@@ -2986,14 +4795,32 @@
     "translation": "Poitrines (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+      "verseNum": 5,
+      "chapterNum": 114,
+      "arabicChapter": "الناس",
+      "translationChapter": "Les humains",
+      "transliterationChapter": "An-Nas",
+      "translation": "qui souffle le mal dans les poitrines des hommes"
+    }
   },
   {
     "arabicWord": "يَدٌ",
     "translation": "Main",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوۡقَ أَيۡدِيهِمۡۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفۡسِهِۦۖ وَمَنۡ أَوۡفَىٰ بِمَا عَٰهَدَ عَلَيۡهُ ٱللَّهَ فَسَيُؤۡتِيهِ أَجۡرًا عَظِيمٗا",
+      "verseNum": 10,
+      "chapterNum": 48,
+      "arabicChapter": "الفتح",
+      "translationChapter": "La victoire éclatante",
+      "transliterationChapter": "Al-Fath",
+      "translation": "Ceux qui te prêtent serment d'allégeance ne font que prêter serment à Allah: la main d'Allah est au-dessus de leurs mains. Quiconque viole le serment ne le viole qu'à son propre détriment; et quiconque remplit son engagement envers Allah, Il lui apportera bientôt une énorme récompense"
+    }
   },
   {
     "arabicWord": "أَيْدِي",
@@ -3007,7 +4834,16 @@
     "translation": "Pied",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِينَ",
+      "verseNum": 38,
+      "chapterNum": 23,
+      "arabicChapter": "المؤمنون",
+      "translationChapter": "Les croyants",
+      "transliterationChapter": "Al-Mu'minun",
+      "translation": "Ce n'est qu'un homme qui forge un mensonge contre Allah; et nous ne croirons pas en lui»"
+    }
   },
   {
     "arabicWord": "أَرْجُلٌ",
@@ -3035,28 +4871,64 @@
     "translation": "Esprit",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "قُلۡ نَزَّلَهُۥ رُوحُ ٱلۡقُدُسِ مِن رَّبِّكَ بِٱلۡحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُواْ وَهُدٗى وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ",
+      "verseNum": 102,
+      "chapterNum": 16,
+      "arabicChapter": "النحل",
+      "translationChapter": "Les abeilles",
+      "transliterationChapter": "An-Nahl",
+      "translation": "Dis: «C'est le Saint Esprit [Gabriel] qui l'a fait descendre de la part de ton Seigneur en toute vérité, afin de raffermir [la foi] de ceux qui croient, ainsi qu'un guide et une bonne annonce pour les Musulmans.»"
+    }
   },
   {
     "arabicWord": "قُوَّةَ",
     "translation": "Force, pouvoir",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Parties du corps, âmes"
+    "chapter": "Parties du corps, âmes",
+    "verse": {
+      "arabic": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ",
+      "verseNum": 10,
+      "chapterNum": 86,
+      "arabicChapter": "الطارق",
+      "translationChapter": "L'astre nocturne",
+      "transliterationChapter": "At-Tariq",
+      "translation": "Il n'aura alors ni force ni secoureur"
+    }
   },
   {
     "arabicWord": "أُمَّةٌ",
     "translation": "Communauté",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "مَا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ",
+      "verseNum": 43,
+      "chapterNum": 23,
+      "arabicChapter": "المؤمنون",
+      "translationChapter": "Les croyants",
+      "transliterationChapter": "Al-Mu'minun",
+      "translation": "Nulle communauté ne peut avancer ni reculer son terme"
+    }
   },
   {
     "arabicWord": "أُمَمٌ",
     "translation": "Communautés (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "وَإِن تُكَذِّبُواْ فَقَدۡ كَذَّبَ أُمَمٞ مِّن قَبۡلِكُمۡۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+      "verseNum": 18,
+      "chapterNum": 29,
+      "arabicChapter": "العنكبوت",
+      "translationChapter": "L'araignée",
+      "transliterationChapter": "Al-'Ankabut",
+      "translation": "Et si vous criez au mensonge, d'autres nations avant vous, ont aussi traité (leurs prophètes) de menteurs. Au Messager, cependant, n'incombe que la transmission claire"
+    }
   },
   {
     "arabicWord": "قَوْمَ",
@@ -3077,7 +4949,16 @@
     "translation": "Etre humain, genre humain",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+      "verseNum": 74,
+      "chapterNum": 55,
+      "arabicChapter": "الرحمن",
+      "translationChapter": "Le Tout Miséricordieux",
+      "transliterationChapter": "Ar-Rahman",
+      "translation": "qu'avant eux aucun homme ou djinn n'a déflorées"
+    }
   },
   {
     "arabicWord": "نَاسٌ",
@@ -3091,7 +4972,16 @@
     "translation": "Mâle",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "فَكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ إِن كُنتُم بِـَٔايَٰتِهِۦ مُؤۡمِنِينَ",
+      "verseNum": 118,
+      "chapterNum": 6,
+      "arabicChapter": "الأنعام",
+      "translationChapter": "Les bestiaux",
+      "transliterationChapter": "Al-An'am",
+      "translation": "Mangez donc de ce sur quoi on a prononcé le nom d'Allah si vous êtes croyants en Ses versets (le Coran)"
+    }
   },
   {
     "arabicWord": "ذُكُورٌ",
@@ -3112,7 +5002,16 @@
     "translation": "Femelle",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "ٱللَّهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلۡأَرۡحَامُ وَمَا تَزۡدَادُۚ وَكُلُّ شَيۡءٍ عِندَهُۥ بِمِقۡدَارٍ",
+      "verseNum": 8,
+      "chapterNum": 13,
+      "arabicChapter": "الرعد",
+      "translationChapter": "Le tonnerre",
+      "transliterationChapter": "Ar-Ra'd",
+      "translation": "Allah sait ce que porte chaque femelle, et de combien la période de gestation dans la matrice est écourtée ou prolongée. Et toute chose a auprès de Lui sa mesure"
+    }
   },
   {
     "arabicWord": "إِنَاثٌ",
@@ -3126,7 +5025,16 @@
     "translation": "Serviteur, adorateur",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "وَجَعَلُواْ ٱلۡمَلَـٰٓئِكَةَ ٱلَّذِينَ هُمۡ عِبَٰدُ ٱلرَّحۡمَٰنِ إِنَٰثًاۚ أَشَهِدُواْ خَلۡقَهُمۡۚ سَتُكۡتَبُ شَهَٰدَتُهُمۡ وَيُسۡـَٔلُونَ",
+      "verseNum": 19,
+      "chapterNum": 43,
+      "arabicChapter": "الزخرف",
+      "translationChapter": "L'ornement",
+      "transliterationChapter": "Az-Zukhruf",
+      "translation": "Et ils firent des Anges qui sont les serviteurs du Tout Miséricordieux des [êtres] féminins! Etaient-ils témoins de leur création? Leur témoignage sera alors inscrit; et ils seront interrogés"
+    }
   },
   {
     "arabicWord": "عَبِيدٌ",
@@ -3140,14 +5048,32 @@
     "translation": "Serviteurs, adorateurs (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِينَ",
+      "verseNum": 40,
+      "chapterNum": 37,
+      "arabicChapter": "الصافات",
+      "translationChapter": "Les rangés",
+      "transliterationChapter": "As-Saffat",
+      "translation": "sauf les serviteurs élus d'Allah"
+    }
   },
   {
     "arabicWord": "عَدُوٌّ",
     "translation": "Ennemi",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "فَإِنَّهُمۡ عَدُوّٞ لِّيٓ إِلَّا رَبَّ ٱلۡعَٰلَمِينَ",
+      "verseNum": 77,
+      "chapterNum": 26,
+      "arabicChapter": "الشعراء",
+      "translationChapter": "Les poètes",
+      "transliterationChapter": "Ash-Shu'ara",
+      "translation": "Ils sont tous pour moi des ennemis sauf le Seigneur de l'univers"
+    }
   },
   {
     "arabicWord": "أَعْدَاءُ",
@@ -3161,14 +5087,32 @@
     "translation": "Mécréants, négateurs, infidèles",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "هُوَ ٱلَّذِي خَلَقَكُمۡ فَمِنكُمۡ كَافِرٞ وَمِنكُم مُّؤۡمِنٞۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+      "verseNum": 2,
+      "chapterNum": 64,
+      "arabicChapter": "التغابن",
+      "translationChapter": "La grande perte",
+      "transliterationChapter": "At-Taghabun",
+      "translation": "C'est Lui qui vous a créés. Parmi vous [il y a] mécréant et croyant. Allah observe parfaitement ce que vous faites"
+    }
   },
   {
     "arabicWord": "كُفَّارٌ",
     "translation": "Mécréants (pluriel)",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "أَلۡقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٖ",
+      "verseNum": 24,
+      "chapterNum": 50,
+      "arabicChapter": "ق",
+      "translationChapter": "Qaf",
+      "transliterationChapter": "Qaf",
+      "translation": "«Vous deux, jetez dans l'Enfer tout mécréant endurci et rebelle"
+    }
   },
   {
     "arabicWord": "كَافِرِونَ",
@@ -3189,20 +5133,31 @@
     "translation": "Notables, leaders, chefs, élite",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "وَيَصۡنَعُ ٱلۡفُلۡكَ وَكُلَّمَا مَرَّ عَلَيۡهِ مَلَأٞ مِّن قَوۡمِهِۦ سَخِرُواْ مِنۡهُۚ قَالَ إِن تَسۡخَرُواْ مِنَّا فَإِنَّا نَسۡخَرُ مِنكُمۡ كَمَا تَسۡخَرُونَ",
+      "verseNum": 38,
+      "chapterNum": 11,
+      "arabicChapter": "هود",
+      "translationChapter": "Houd",
+      "transliterationChapter": "Hud",
+      "translation": "Et il construisait l'arche. Et chaque fois que des notables de son peuple passaient près de lui, ils se moquaient de lui. Il dit: «Si vous vous moquez de nous, eh bien, nous nous moquerons de vous, comme vous vous moquez [de nous]"
+    }
   },
   {
     "arabicWord": "وَلِيّ",
     "translation": "Responsable, protecteur, allié, tuteur",
     "wordType": "Nom",
     "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
-  },
-  {
-    "arabicWord": "أَوْلِيَاء",
-    "translation": "Responsables, protecteurs, alliés, tuteurs (pluriel)",
-    "wordType": "Nom",
-    "wordArabicType": "الأَشْخَاصُ",
-    "chapter": "Gens, individus"
+    "chapter": "Gens, individus",
+    "verse": {
+      "arabic": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "verseNum": 6,
+      "chapterNum": 109,
+      "arabicChapter": "الكافرون",
+      "translationChapter": "Les mécréants",
+      "transliterationChapter": "Al-Kafirun",
+      "translation": "A vous votre religion, et à moi ma religion»"
+    }
   }
 ]

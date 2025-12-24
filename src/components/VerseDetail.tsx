@@ -1,4 +1,5 @@
 import type { Verse } from "../type";
+import { ArabicText } from "./ArabicText";
 
 export const VerseDetail = ({ verse }: { verse: Verse }) => {
 
@@ -9,9 +10,7 @@ export const VerseDetail = ({ verse }: { verse: Verse }) => {
         <span className="font-arabic" dir="rtl">{verse.arabicChapter}</span>
       </div>
       <div className="divider my-2"></div>
-      <div className="text-2xl font-arabic leading-loose text-right" dir="rtl">
-        {verse.arabic}
-      </div>
+      <ArabicText text={verse.arabic} />
       <div className="text-base text-base-content/80 leading-relaxed italic">
         {verse.translation}
       </div>
