@@ -1,10 +1,7 @@
-// import { useState } from "react";
 import type { ArabicWord } from "../type";
-// import { VerseDetail } from "./VerseDetail";
 import { ArabicText } from "./ArabicText";
 
 export function WordCard({ word }: { word: ArabicWord }) {
-  // const [showVerse, setShowVerse] = useState(false);
 
   return (
     <div className="card bg-base-100 shadow-lg hover:shadow-xl transition-all duration-300 border border-base-200">
@@ -28,24 +25,6 @@ export function WordCard({ word }: { word: ArabicWord }) {
             {word.translation}
           </div>
         </div>
-        {/* {word.verse && (
-          <div className="mt-4">
-            <button
-              onClick={() => setShowVerse(!showVerse)}
-              className="badge badge-outline badge-lg gap-2 cursor-pointer hover:badge-primary transition-all"
-            >
-              <i className="fas fa-quran text-sm"></i>
-              <span className="font-semibold">
-                {word.verse?.translationChapter} {word.verse?.chapterNum}:
-                {word.verse?.verseNum}
-              </span>
-              <i
-                className={`fas fa-chevron-${showVerse ? "up" : "down"} text-xs`}
-              ></i>
-            </button>
-          </div>
-        )}
-        {word.verse && showVerse && <VerseDetail verse={word.verse} />} */}
       </div>
     </div>
   );

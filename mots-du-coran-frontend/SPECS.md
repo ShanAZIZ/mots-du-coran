@@ -3,7 +3,7 @@
 - Page d'acceuil
     - Liens vers la page des mots ✅
     - Liens vers la page des QUIZ ✅
-    - Avoir des exemples d'utilisations du mots dans le Quran.
+    - Avoir des exemples d'utilisations du mots dans le Quran. (KO trop complexe)
     - Chargement des mots en mémoire -> cache
 - Page "Mots"
     - Choisir un/plusieurs chapitre 
