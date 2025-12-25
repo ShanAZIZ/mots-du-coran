@@ -1,4 +1,4 @@
-import type { QuizProposition } from "../type";
+import type { QuizProposition } from "../../type";
 
 export const QuizPropositionButton = ({
   proposition,

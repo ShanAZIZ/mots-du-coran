@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 
-import { WordCard } from "../components/WordCard";
-import type { ArabicWord } from "../type";
-import { SearchBar } from "../components/SearchBar";
-import { BackButton } from "../components/BackButton";
-import { arabicWords } from "../data/data";
+import type { ArabicWord } from "../../type";
+import { SearchBar } from "../../components/SearchBar";
+import { BackToMenuButton } from "./BackToMenuButton";
+import { arabicWords } from "../../data/data";
+import { WordCard } from "./WordCard";
 
 const normalizeForSearch = (text: string): string => {
   return text
@@ -52,7 +52,7 @@ export function WordsPage() {
       <div className="sticky top-0 z-50 bg-base-100 shadow-md">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-4">
           <div className="flex items-center justify-between gap-4">
-            <BackButton />
+            <BackToMenuButton />
             <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-base-content flex-shrink-0">
               Dictionnaire Arabe
             </h1>

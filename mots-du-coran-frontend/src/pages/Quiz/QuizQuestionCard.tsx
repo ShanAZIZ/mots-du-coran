@@ -1,7 +1,7 @@
 import { useState } from "react";
-import type { QuizQuestion } from "../type";
 import { QuizPropositionButton } from "./QuizPropositionButton";
-import { ArabicText } from "./ArabicText";
+import type { QuizQuestion } from "../../type";
+import { ArabicText } from "../../components/ArabicText";
 
 export const QuizQuestionCard = ({
   question,

@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react";
-import type { Quiz } from "../type";
-import { getQuiz } from "../service/quiz-service";
-import { arabicWords } from "../data/data";
-import { QuizQuestionCard } from "../components/QuizQuestionCard";
+import type { Quiz } from "../../type";
+import { getQuiz } from "../../service/quiz-service";
+import { arabicWords } from "../../data/data";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
-import { QuizEndCard } from "../components/QuizEndCard";
 import { useNavigate } from "react-router";
+import { QuizEndCard } from "./QuizEndCard";
+import { QuizQuestionCard } from "./QuizQuestionCard";
 
 export const QuizPage = () => {
   const [quiz, setQuiz] = useState<Quiz | null>(null);
@@ -76,7 +76,7 @@ export const QuizPage = () => {
       </button>
       <button
         className="btn btn-error btn-lg mt-4 md:mt-6"
-        onClick={() => navigate(-1)}
+        onClick={() => navigate("/")}
       >
         Quitter
       </button>

@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router";
 import { HomePage } from "./pages/HomePage";
-import { WordsPage } from "./pages/WordsPage";
-import { QuizPage } from "./pages/QuizPage";
+import { WordsPage } from "./pages/Words/WordsPage";
+import { QuizPage } from "./pages/Quiz/QuizPage";
 
 const App = () => {
   return (

@@ -1,4 +1,4 @@
-import type { Verse } from "../type";
+import type { Verse } from "../../type";
 
 export const VerseDetail = ({ verse }: { verse: Verse }) => {
 

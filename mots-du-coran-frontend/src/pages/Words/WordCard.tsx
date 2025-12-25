@@ -1,5 +1,5 @@
-import type { ArabicWord } from "../type";
-import { ArabicText } from "./ArabicText";
+import { ArabicText } from "../../components/ArabicText";
+import type { ArabicWord } from "../../type";
 
 export function WordCard({ word }: { word: ArabicWord }) {
 
