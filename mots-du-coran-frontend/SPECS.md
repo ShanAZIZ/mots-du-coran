@@ -6,8 +6,7 @@
     - Avoir des exemples d'utilisations du mots dans le Quran. (KO trop complexe)
     - Chargement des mots en mémoire -> cache
 - Page "Mots"
-    - Choisir un/plusieurs chapitre 
-    - Barre de recherche/Filtre par chapitre
+    - Choisir un/plusieurs chapitre ✅
     - Liste des mots (cartes) ✅
     - Organiser les mots ✅
     - Suivre l'évolution -> mots que je connais bien/moins bien (selon les reponses aux quiz)
