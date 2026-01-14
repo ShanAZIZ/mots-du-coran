@@ -76,7 +76,7 @@ export const QuizPage = () => {
       </button>
       <button
         className="btn btn-error btn-lg mt-4 md:mt-6"
-        onClick={() => navigate(-1)}
+        onClick={() => navigate("/")}
       >
         Quitter
       </button>
