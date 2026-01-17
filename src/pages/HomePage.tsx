@@ -5,14 +5,17 @@ export function HomePage() {
     <div className="min-h-screen bg-base-100 flex flex-col justify-center items-center p-6">
       <div className="text-center max-w-lg w-full">
         <h1 className="text-4xl font-bold mb-4">
-          Révise le Vocabulaire du Coran
+          Le monde du Qur'an
         </h1>
         <p className="text-lg opacity-80 mb-8">
-          Accède rapidement aux mots essentiels et entraîne-toi avec des quiz
+          Accède rapidement aux coran et aux mots essentiels et entraîne-toi avec des quiz
           adaptés.
         </p>
 
         <div className="flex flex-col gap-4 w-full">
+          <Link to="/coran" className="btn btn-accent w-full text-lg">
+            📖 Le Saint Coran (Bêta)
+          </Link>
           <Link to="/mots" className="btn btn-primary w-full text-lg">
             📘 Accéder aux mots
           </Link>
@@ -21,19 +24,6 @@ export function HomePage() {
           </Link>
         </div>
       </div>
-      <div className="mt-8 text-sm opacity-60">
-          <p>
-            Source des données :{" "}
-            <a
-              href="https://www.arabereussite.com/apprendre-les-mots-du-coran/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="link link-hover underline"
-            >
-              Arabe Réussite
-            </a>
-          </p>
-        </div>
     </div>
   );
 }

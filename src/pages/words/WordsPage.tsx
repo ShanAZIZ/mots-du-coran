@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 
-import { WordCard } from "../components/WordCard";
-import type { ArabicWord } from "../type";
-import { SearchBar } from "../components/SearchBar";
-import { BackButton } from "../components/BackButton";
-import { arabicWords } from "../data/data";
+import { WordCard } from "../quran/WordCard";
+import { SearchBar } from "../../components/SearchBar";
+import { arabicWords } from "../../data/data";
+import { StickyTopBar } from "../../components/StickyTopBar";
+import type { ArabicWord } from "../../types/wordType";
 
 const normalizeForSearch = (text: string): string => {
   return text
@@ -49,17 +49,9 @@ export function WordsPage() {
 
   return (
     <main className="min-h-screen bg-base-200">
-      <div className="sticky top-0 z-50 bg-base-100 shadow-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-4">
-          <div className="flex items-center justify-between gap-4">
-            <BackButton url="/" />
-            <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-base-content flex-shrink-0">
-              Dictionnaire Arabe
-            </h1>
-            <div className="w-10"></div>
-          </div>
-        </div>
-      </div>
+      <StickyTopBar>
+        <span>Dictionnaire Arabe</span>
+      </StickyTopBar>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6 lg:py-8">
         <div className="mb-6 sm:mb-8 space-y-4 sm:space-y-6">
           <SearchBar value={search} onChange={setSearch} />
@@ -72,6 +64,20 @@ export function WordsPage() {
               trouvé{filteredWords.length > 1 ? "s" : ""}
             </span>
           </div>
+        </div>
+
+        <div className="my-8 text-sm opacity-60 justify-center items-center">
+          <p>
+            Source des données :{" "}
+            <a
+              href="https://www.arabereussite.com/apprendre-les-mots-du-coran/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="link link-hover underline"
+            >
+              Arabe Réussite
+            </a>
+          </p>
         </div>
 
         {Object.entries(groupedWords).map(([chapter, chapterWords]) => (

@@ -8,6 +8,9 @@ import { VitePWA } from 'vite-plugin-pwa'
 export default defineConfig({
   plugins: [react(), tailwindcss(), VitePWA({
     includeAssets: ['icons/manifest-icon-192.maskable.png', 'icons/apple-touch-icon.png', 'icons/mask-icon.svg'],
+    workbox: {
+      maximumFileSizeToCacheInBytes: 10000000
+    },
     registerType: 'autoUpdate',
     manifest: {
       name: "Mots du Qur'an",

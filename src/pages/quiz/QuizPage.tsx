@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react";
-import type { Quiz } from "../type";
-import { getQuiz } from "../service/quiz-service";
-import { arabicWords } from "../data/data";
-import { QuizQuestionCard } from "../components/QuizQuestionCard";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
-import { QuizEndCard } from "../components/QuizEndCard";
 import { useNavigate } from "react-router";
+import type { Quiz } from "../../types/quizType";
+import { getQuiz } from "../../service/quiz-service";
+import { arabicWords } from "../../data/data";
+import { QuizEndCard } from "./components/QuizEndCard";
+import { QuizQuestionCard } from "./components/QuizQuestionCard";
 
 export const QuizPage = () => {
   const [quiz, setQuiz] = useState<Quiz | null>(null);

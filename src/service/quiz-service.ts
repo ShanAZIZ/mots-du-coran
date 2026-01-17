@@ -1,4 +1,5 @@
-import type { ArabicWord, Quiz, QuizProposition, QuizQuestion } from "../type";
+import type { QuizProposition, QuizQuestion, Quiz } from "../types/quizType";
+import type { ArabicWord } from "../types/wordType";
 
 const getRandomWord = (allWords: ArabicWord[]) => {
   return allWords[Math.floor(Math.random() * allWords.length)];

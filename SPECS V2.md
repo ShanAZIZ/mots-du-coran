@@ -1,15 +1,15 @@
 ## Specifications V2
 - Tout doit etre compatible Laptop et Mobile
 - Page d'acceuil
-    - Ajouter un bouton "Le Coran"
+    - Ajouter un bouton "Le Coran"  ✅
 - Page Coran
-    - Lister les sourates
-    - Au click sur une sourate, on redirige vers la page Sourate
-    - Barre de recherche sourates
+    - Lister les sourates  ✅
+    - Au click sur une sourate, on redirige vers la page Sourate  ✅
+    - Barre de recherche sourates  ✅
     - Boutons rechercher dans tout les coran (Rerigire vers la page recherche avancée)
 
 - Page Sourate
-    - Afficher les versets du sourates
+    - Afficher les versets du sourates  ✅
     - Bouton navigation vers un verset
 
 

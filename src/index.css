@@ -2,12 +2,14 @@
 @plugin "daisyui" {
   themes: light --default, dark --prefersdark, cupcake;
 }
-
 @font-face {
-  font-family: Amiri Quran;
-  src: url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+  font-family: Uthman Taha;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("../src/assets/fonts/KFGQPC\ Uthmanic\ Script\ HAFS\ Regular.otf");
 }
 
 @theme {
-  --font-amiri-quran: Amiri Quran;
+  --font-uthman-taha: Uthman Taha;
 }
